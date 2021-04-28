@@ -1,0 +1,962 @@
+3.6.4 (v3.6.4:d48ecebad5, Dec 18 2017, 21:07:28) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)]
+Python Type "help", "copyright", "credits" or "license" for more information.
+[evaluate game.py]
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |     |  2  |     |
+	|     |     |     |     |
+	|     |  2  |     |     |
+	|     |     |     |     |
+
+
+Score: 0
+
+Enter a move: TERM environment variable not set.
+w
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |     |  2  |     |
+	|     |     |     |     |
+	|     |  2  |     |     |
+	|     |     |     |     |
+
+
+Score: 0
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  2  |  2  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+	|     |     |     |  2  |
+
+
+Score: 0
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+a
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  2  |  2  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+	|     |     |     |  2  |
+
+
+Score: 0
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  2  |  2  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+	|     |     |     |  2  |
+
+
+Score: 0
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |     |
+	|     |  2  |     |     |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+d
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |     |
+	|     |  2  |     |     |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |     |
+	|     |  2  |     |     |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |     |
+	|     |  2  |     |     |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |     |     |  4  |
+	|  4  |     |     |  2  |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+w
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |     |     |  4  |
+	|  4  |     |     |  2  |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |     |     |  4  |
+	|  4  |     |     |  2  |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |     |     |  4  |
+	|  4  |     |     |  2  |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |     |     |  4  |
+	|  4  |     |     |  2  |
+	|     |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 4
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |  4  |
+	|  2  |     |     |  2  |
+	|     |     |     |     |
+	|     |  2  |     |     |
+
+
+Score: 4
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+a
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |  4  |
+	|  2  |     |     |  2  |
+	|     |     |     |     |
+	|     |  2  |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |  4  |
+	|  2  |     |     |  2  |
+	|     |     |     |     |
+	|     |  2  |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |  4  |
+	|  2  |     |     |  2  |
+	|     |     |     |     |
+	|     |  2  |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |  4  |
+	|  2  |     |     |  2  |
+	|     |     |     |     |
+	|     |  2  |     |     |
+
+
+Score: 4
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  4  |     |     |  4  |
+	|  2  |     |     |  2  |
+	|     |     |     |     |
+	|     |  2  |     |     |
+
+
+Score: 4
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |     |     |
+	|     |     |  2  |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+a
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |     |     |
+	|     |     |  2  |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |     |     |
+	|     |     |  2  |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |     |     |
+	|     |     |  2  |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |     |     |
+	|     |     |  2  |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |     |     |
+	|     |     |  2  |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |     |     |
+	|     |     |  2  |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+w
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |     |     |
+	|  4  |     |  2  |     |
+	|  2  |     |     |     |
+	|  2  |     |     |     |
+
+
+Score: 16
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+w
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |     |
+	|  4  |     |     |     |
+	|  4  |     |     |  4  |
+	|     |     |     |     |
+
+
+Score: 20
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+w
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  8  |     |  2  |  4  |
+	|  8  |     |     |     |
+	|     |     |     |     |
+	|     |     |  4  |     |
+
+
+Score: 28
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+d
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|  16 |     |  2  |  4  |
+	|     |     |  4  |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+w
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  4  |
+	|     |     |     |  4  |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 44
+
+Enter a move: collapsible ran well
+Press "w", "a", "s", or "d" to move Up, Left, Down or Right respectively.
+Enter "p" to quit.
+
+	|     |  16 |  2  |  8  |
+	|     |     |     |     |
+	|     |     |     |     |
+	|     |     |     |     |
+
+
+Score: 52
+
+Enter a move: TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.
+TERM environment variable not set.

@@ -1,0 +1,1269 @@
+Year	Sector	Reporting Legal Name	Facility Name	CO2 (tonnes CO2 eq)	CH4 (tonnes CO2 eq)	N2O (tonnes CO2 eq)	HFC (tonnes CO2 eq)	PFC (tonnes CO2 eq)	SF6 (tonnes CO2 eq)	Total (tonnes CO2 eq)
+2013	Chemical Manufacturing	Alberta Envirofuels	Alberta Envirofuels	254935	489	433	0	0	0	255858
+2013	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	162446	349	349	0	0	3	163148
+2013	Chemical Manufacturing	MEGlobal Canada Inc.	Fort Saskatchewan EOEG	92952	1479	0	0	0	0	94430
+2013	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	147118	108	1101	0	0	0	148328
+2013	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2954199	3729	12737	0	0	0	2970665
+2013	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Chemical Manufacturing Facility	376451	473	251	0	0	0	377175
+2013	Chemical Manufacturing	Shell Chemicals Canada Limited.	Scotford Chemical Plant	327982	255	627	257	0	0	329120
+2013	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	496537	217	2306	0	0	0	499060
+2013	Chemical Manufacturing	Dow Chemical Canada ULC	Western Canada Operations	1391655	2116	4498	4842	0	1	1403112
+2013	Chemical Manufacturing	Air Products Canada Ltd.	Edmonton Hydrogen Facility	1080966	1031	261	0	0	0	1082257
+2013	Chemical Manufacturing	Dow Chemical Canada ULC	Prentiss Manufacturing Facility	22038	459	23	0	0	0	22520
+2013	Chemical Manufacturing	Methanex Corporation	Methanex Medicine Hat Methanol Plant	298569	1571	1546	0	0	0	301686
+2013	Coal Mining	TransAlta Generation Partnership	Highvale Coal Mine	93715	61646	1057	0	0	0	156418
+2013	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	151563	57369	11588	0	0	0	220520
+2013	Coal Mining	Teck Coal Limited	Cheviot Mine (Cardinal River Operations)	91278	26577	8427	0	0	0	126283
+2013	Coal Mining	Grande Cache Coal Corporation	Grande Cache Coal Corporation	102882	102	7770	0	0	0	110753
+2013	Conventional Oil and Gas Extraction	Blaze Energy Ltd.	Brazeau Gas Plant	78750	63584	1670	0	0	0	144003
+2013	Conventional Oil and Gas Extraction	Keyera Corp	Brazeau River Gas Plant	74122	7995	2677	0	0	0	84794
+2013	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	516032	3001	3227	0	0	0	522260
+2013	Conventional Oil and Gas Extraction	Taqa North Ltd.	East Crossfield Gas Plant 9-14-28-1W5	123504	2455	409	0	0	0	126368
+2013	Conventional Oil and Gas Extraction	Talisman Energy	Edson Gas Plant	201554	10980	1458	0	0	0	213992
+2013	Conventional Oil and Gas Extraction	ConocoPhillips Canada Operations Ltd.	Elmworth Gas Plant	235884	18698	1504	0	0	0	256086
+2013	Conventional Oil and Gas Extraction	Spectra Energy Empress LP	Empress Straddle Gas Plant	281355	5683	1163	0	0	0	288201
+2013	Conventional Oil and Gas Extraction	Plains Midstream Canada	Fort Saskatchewan Storage and Fractionation	65303	65	355	0	0	0	65723
+2013	Conventional Oil and Gas Extraction	Direct Energy Marketing Ltd.	Hanlan Robb Gas Plant	218003	26820	577	0	0	0	245401
+2013	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	399571	28259	3395	0	0	0	431225
+2013	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Judy Creek Gas Conservation Plant	56007	13210	1765	0	0	0	70983
+2013	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Karr Gas Plant	69793	8682	1423	0	0	0	79897
+2013	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob Amalgamated Sour Gas Plant	216012	12780	2782	0	0	0	231574
+2013	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob South #3 Gas Plant	411550	5760	1979	0	0	0	419288
+2013	Conventional Oil and Gas Extraction	Keyera Corp	Nevis Gas Plant	83120	10362	2284	0	0	0	95766
+2013	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Quirk Creek Gas Plant	120617	3638	1747	0	0	0	126002
+2013	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Ram River	364519	4130	1384	0	0	0	370033
+2013	Conventional Oil and Gas Extraction	Keyera Corp	Rimbey Gas Plant	358685	6048	2038	0	0	0	366771
+2013	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	159443	1521	763	0	0	0	161727
+2013	Conventional Oil and Gas Extraction	Shell Canada Limited	Caroline Complex	487524	1579	4184	0	0	0	493288
+2013	Conventional Oil and Gas Extraction	Shell Canada Limited	Jumping Pound Complex	206969	3337	1267	0	0	0	211573
+2013	Conventional Oil and Gas Extraction	Keyera Corp	Strachan Gas Plant	256733	12180	2754	0	0	0	271666
+2013	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	105355	5990	1219	0	0	0	112563
+2013	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex (Use)	354506	4772	3393	0	0	0	362671
+2013	Conventional Oil and Gas Extraction	SemCams ULC	Windfall 8-17 GP	13375	1282	68	0	0	0	14725
+2013	Conventional Oil and Gas Extraction	Direct Energy Marketing Ltd.	Wildcat Hills Gas Plant	93693	1931	545	0	0	0	96169
+2013	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	29067	23437	554	0	0	0	53058
+2013	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Olds Gas Plant	114784	3065	2125	0	0	0	119975
+2013	Conventional Oil and Gas Extraction	Mazeppa Processing Partnership Limited	Mazeppa Sour Gas Plant	64378	628	187	0	0	0	65192
+2013	Conventional Oil and Gas Extraction	AECO Gas Storage Partnership	Suffield Gas Storage Facility	27738	19244	181	0	0	0	47163
+2013	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Galloway Gas Plant	41685	16015	3452	0	0	0	61152
+2013	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Gold Creek Gas Plant	44759	15363	488	0	0	0	60610
+2013	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Wild River Compressor Station	34881	17830	3486	0	0	0	56196
+2013	Conventional Oil and Gas Extraction	Cenovus Energy Inc.	Suffield Oil Battery 01-27	52566	1250	332	0	0	0	54147
+2013	Conventional Oil and Gas Extraction	ConocoPhillips Canada Operations Ltd.	Berland Sweet Gas Plant	58870	11107	381	0	0	0	70358
+2013	Conventional Oil and Gas Extraction	Devon Canada Corporation	Narraway Gas Plant	53933	4428	807	0	0	0	59167
+2013	Conventional Oil and Gas Extraction	Pembina Pipeline Corporation	Resthaven Sweet Gas Plant 08-11	43007	26378	369	0	0	0	69754
+2013	Conventional Oil and Gas Extraction	Encana Corporation	Sexsmith Sour Gas Plant	57728	518	195	0	0	0	58441
+2013	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Rainbow Lake Gas plant	55111	2134	282	0	0	0	57527
+2013	Conventional Oil and Gas Extraction	Keyera Corp	Gilby Gas Plant	68818	2155	1605	0	0	0	72577
+2013	Conventional Oil and Gas Extraction	Keyera Corp	West Pembina GP	72201	1165	325	0	0	0	73690
+2013	Conventional Oil and Gas Extraction	NAL Resources Management	Sylvan Lake Gas Plant 14-32-037-03W5M	52123	3511	1077	0	0	0	56711
+2013	Conventional Oil and Gas Extraction	Keyera Corp	Minnehik Buck Lake Gas Plant	65862	5727	1368	0	0	0	72957
+2013	Conventional Oil and Gas Extraction	Peyto Exploration and Development Corporation	Peyto Oldman 11-17-055-21 W5M	90187	23591	2989	0	0	0	116767
+2013	Conventional Oil and Gas Extraction	Pembina Pipeline Corporation	Empress NGL Extraction Plant	70142	965	375	0	0	0	71481
+2013	Conventional Oil and Gas Extraction	Spectra Energy Midstream Corporation	Gordondale East Gas Plant	46994	8990	878	0	0	0	56862
+2013	Conventional Oil and Gas Extraction	Keyera Corp	Simonette Gas Plant	42835	3032	2235	0	0	0	48102
+2013	Conventional Oil and Gas Extraction	Direct Energy Marketing Ltd.	Ferrier Gas Plant	40872	2978	1134	0	0	0	44985
+2013	Conventional Oil and Gas Extraction	Talisman Energy	TLM Bigstone West Gas Plant	45853	1945	284	0	0	0	48081
+2013	Conventional Oil and Gas Extraction	Talisman Energy	TLM Wild River Gas Plant	50413	10275	347	0	0	0	61035
+2013	Conventional Oil and Gas Extraction	Veresen Energy Infrastructure Inc.	Hythe Brainard Sour Gas Plant	64007	9620	259	0	0	0	73887
+2013	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Carson Creek GP 4-23	28915	10912	1606	0	0	0	41433
+2013	Conventional Oil and Gas Extraction	Advantage Oil & Gas Ltd.	Glacier Sour Gas Plant 05-02	59799	17864	460	0	0	0	78123
+2013	Conventional Oil and Gas Extraction	Peyto Exploration and Development Corporation	Peyto Nosehill 11-21-055-20 W5M	53824	6104	8510	0	0	0	68438
+2013	Conventional Oil and Gas Extraction	Pembina Pipeline Corporation	Musreau Gas Plant	50983	20562	452	0	0	0	71996
+2013	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	BRINTNELL 9-2-81-23w4	38982	13459	200	0	0	0	52641
+2013	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Kirby South 13-21-73-7W4	103770	1908	642	0	0	0	106319
+2013	Conventional Oil and Gas Extraction	HARVEST OPERATIONS CORP.	Wainwright B Battery	2644	90992	12	0	0	0	93648
+2013	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	4405236	1208	19791	0	0	0	4426235
+2013	Electric Power Generation	Calgary Energy Centre No. 2 Inc.	Calgary Energy Centre	415847	2655	3170	0	0	0	421673
+2013	Electric Power Generation	TransCanada Energy Ltd.	Carseland Power Plant	295153	509	2260	0	0	0	297923
+2013	Electric Power Generation	Encana Corporation	Cavalier Power Plant	277943	585	2040	0	0	0	280569
+2013	Electric Power Generation	City of Medicine Hat	Electric Utility - Generation	358789	3049	2735	0	0	0	364573
+2013	Electric Power Generation	Capital Power (Alberta) Limited Partnership	Clover Bar Energy Centre	185561	1196	1425	0	0	0	188182
+2013	Electric Power Generation	TransAlta Generation Partnership	Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant	381079	688	2855	0	0	0	384621
+2013	Electric Power Generation	Capital Power Generation Services Inc.	Genesee Thermal Generating Station	8946995	2825	48574	0	0	0	8998394
+2013	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R.Milner Generating Station	714318	1338	3341	0	0	0	718997
+2013	Electric Power Generation	TransAlta Generation Partnership	Keephills Thermal Electric Power Generating Plant	7557469	2107	49745	0	0	0	7609322
+2013	Electric Power Generation	ATCO Power Canada Ltd.	Rainbow Lake Cogeneration Power Plant (Units 4-5)	238385	421	1751	0	0	0	240558
+2013	Electric Power Generation	TransCanada Energy Ltd.	Redwater Cogeneration Plant	185172	293	1344	0	0	0	186809
+2013	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	4786687	1529	21711	0	0	0	4809927
+2013	Electric Power Generation	TransAlta Generation Partnership	Sundance Thermal Electric Power Generating Plant	12095357	3518	82644	0	0	0	12181518
+2013	Electric Power Generation	Nexen Energy ULC.	Balzac Power Station	249812	1055	1913	0	0	0	252780
+2013	Electric Power Generation	University of Alberta Heating Plant	Heating Plant	220233	99	119	0	0	0	220450
+2013	Electric Power Generation	Whitecourt Power Limited Partnership	Whitecourt Electric Power Generating Facility	996	1417	5734	0	0	0	8146
+2013	Electric Power Generation	Enmax Green Power Inc	Crossfield Energy Centre	131979	843	1005	0	0	0	133827
+2013	Electric Power Generation	Canadian Forest Products Ltd.	Canfor Green Energy Combined Heat and Power Plant	3195	578	3775	0	0	0	7548
+2013	Electric Power Generation	"Grande Prairie Generation, Inc."	Northern Prairie Thermal Electric Power Plant	131030	691	635	0	0	0	132357
+2013	Electric Power Generation	DAPP Power LP	DAPP Power LP	846	552	4372	0	0	0	5771
+2013	Electric Power Generation	Valley Power LP	Valley Power LP	652	329	2607	0	0	0	3588
+2013	Electric Power Generation	University of Calgary	Central Heating and Cooling Plant	58918	13	15	0	0	0	58946
+2013	Fertilizer Manufacturing	Agrium Inc.	Redwater Fertilizer Operations	1193614	62566	13011	0	0	0	1269191
+2013	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1851340	1869	5233	0	0	0	1858443
+2013	Fertilizer Manufacturing	Agrium Inc.	Carseland Nitrogen Operations	556861	28493	1953	0	0	0	587306
+2013	Fertilizer Manufacturing	Orica Canada Inc.	Carseland Works	712	13	164432	0	0	0	165157
+2013	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operations	587440	17153	1836	0	0	0	606428
+2013	Food Manufacturing	Lantic Inc. Taber Factory	Lantic Inc. Taber Beet Sugar Factory	72039	10316	310	0	0	0	82665
+2013	Miscellaneous Manufacturing	General Scrap Partnership	GenAlta Recycling Inc.	629	0	1	0	0	0	630
+2013	Miscellaneous Manufacturing	General Scrap Partnership	Navajo Metals	1889	1	39	0	0	0	1929
+2013	Natural Gas Distribution	ATCO Gas and Pipelines Ltd.	ATCO Gas - Distribution Systems	12802	127397	61	0	0	0	140260
+2013	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw Plant	147287	101	273	0	0	0	147661
+2013	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc.	Exshaw Cement Plant	939649	1651	0	0	0	185	941484
+2013	Non-Metallic Mineral Product Manufacturing	Lehigh Hanson Materials Ltd.	Edmonton Plant	678273	112	928	0	0	0	679313
+2013	Non-Metallic Mineral Product Manufacturing	Baymag Inc.	Baymag Exshaw Operations	123717	15	184	0	0	0	123916
+2013	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Christina Lake SAGD Bitumen Battery	1405303	4293	2327	0	0	0	1411923
+2013	Oil Sands In Situ Extraction	Imperial Oil Resources Limited	Cold Lake	4561042	21787	22444	0	0	0	4605273
+2013	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	229151	1067	352	0	0	0	230570
+2013	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	MacKay River Power Plant	822271	1424	6316	0	0	0	830011
+2013	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	"MacKay River, In-Situ Oil Sands Plant"	197762	414	1134	0	0	0	199311
+2013	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex 5-21	265145	4330	705	0	0	0	270180
+2013	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake and Primrose Plant	2909408	67167	17226	0	0	0	2993802
+2013	Oil Sands In Situ Extraction	Nexen Energy ULC.	Long Lake Project	4112991	9165	17183	0	0	0	4139339
+2013	Oil Sands In Situ Extraction	Husky Oil Operations Limited	Tucker Thermal	529776	316	898	0	0	0	530990
+2013	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Pod One	223684	3869	1049	0	0	0	228602
+2013	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish 1 SAGD Plant	688726	5472	1182	0	0	0	695380
+2013	Oil Sands In Situ Extraction	Shell Canada Limited	Orion Complex	183805	1414	958	0	0	0	186177
+2013	Oil Sands In Situ Extraction	ConocoPhillips Canada Resources Corp.	Surmont SAGD Commercial Battery	544875	629	881	0	0	0	546385
+2013	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Foster Creek SAGD Bitumen Battery (with Cogen)	2182712	2491	7707	0	0	0	2192910
+2013	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Regional Project	378059	3799	1922	0	0	0	383780
+2013	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	Firebag	4661054	11116	30056	0	0	513	4702739
+2013	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Algar	267642	3777	1052	0	0	0	272471
+2013	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Cogeneration Facility	685724	311	3309	0	0	0	689344
+2013	Oil Sands In Situ Extraction	Statoil Canada Ltd.	Leismer SAGD Bitumen Battery	377383	676	680	0	0	0	378739
+2013	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish 2 SAGD Plant	511537	17260	923	0	0	0	529720
+2013	Oil Sands In Situ Extraction	Southern Pacific Resource Corp.	STP McKay Thermal Project	136017	802	721	0	0	0	137539
+2013	Oil Sands In Situ Extraction	MacKay Operating Corp	MacKay River Commercial Project	4856	2	17	0	0	0	4875
+2013	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	10991091	1396262	161370	0	0	0	12548723
+2013	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Plant	1319783	1870	7266	0	0	0	1328920
+2013	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Muskeg River Mine	430087	25875	3139	547	0	0	459648
+2013	Oil Sands Mining and Upgrading	Shell Canada Energy Limited	Scotford Upgrader and Upgrader Cogeneration	3291568	16805	20664	0	0	0	3329038
+2013	Oil Sands Mining and Upgrading	Canadian Natural Resources Limited	Horizon Oil Sands Processing Plant and Mine	3465112	1058331	15171	0	0	41	4538655
+2013	Oil Sands Mining and Upgrading	Suncor Energy Oil Sands Limited Partnership	Suncor Energy Inc. Oil Sands	7966326	399844	44361	2160	88	960	8413740
+2013	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Jackpine Mine	1029790	15335	5724	486	0	0	1051335
+2013	Oil Sands Mining and Upgrading	Imperial Oil Resources Limited	Kearl Oil Sands Processing Plant and Mine	667965	37533	15037	0	0	0	720535
+2013	Petroleum and Coal Products Manufacturing	Suncor Energy Products Partnership	Edmonton Refinery	1243193	4738	4988	0	0	0	1252920
+2013	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	941911	19525	1993	287	0	0	963716
+2013	Petroleum and Coal Products Manufacturing	Imperial Oil	Strathcona Refinery	1449994	1811	5731	0	0	0	1457536
+2013	Petroleum and Coal Products Manufacturing	Rio Tinto Alcan	Strathcona Works	113235	1	7	0	0	0	113243
+2013	Petroleum and Coal Products Manufacturing	Husky Oil Operations Limited	Lloydminster Refinery	88762	177	385	0	0	0	89324
+2013	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline, Alberta"	257061	12804	3324	0	0	0	273190
+2013	Pipeline Transportation	Alliance Pipeline Ltd.	Alliance Pipeline Ltd. - AB Pipeline System	547459	26224	3835	0	0	0	577518
+2013	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	79996	128595	3373	0	0	0	211965
+2013	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline, Alberta System"	1793358	855427	24444	0	0	0	2673230
+2013	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	350691	17613	3618	0	0	0	371922
+2013	Primary Metal Manufacturing	AltaSteel Ltd.	AltaSteel	76980	26	260	0	0	0	77265
+2013	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	1011	39723	0	0	0	0	40734
+2013	Waste Treatment and Disposal	Waste Management of Canada Corporation	West Edmonton Landfill	912	94801	113	0	0	0	95826
+2013	Waste Treatment and Disposal	City of Lethbridge	Lethbridge Waste and Recycling Centre Disposal Site	520	78476	8	0	0	0	79004
+2013	Waste Treatment and Disposal	EPCOR Water Services Inc.	Gold Bar Wastewater Treatment Plant	25090	1169	14775	0	0	0	41034
+2013	Waste Treatment and Disposal	Beaver Regional Waste Management Services Commission	Beaver Regional Waste Landfill	10834	62751	63	0	0	0	73648
+2013	Waste Treatment and Disposal	City of Calgary	Shepard Landfill	950	33316	0	0	0	0	34266
+2013	Waste Treatment and Disposal	City of Calgary	Spyhill Landfill	858	52775	0	0	0	0	53633
+2013	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc.	Alberta-Pacific Forest Industries Inc.	148140	2042	17245	0	0	0	167427
+2013	Wood Product Manufacturing	Weyerhaeuser Company Limited	Grande Prairie Operations	84134	26156	10813	0	0	0	121103
+2013	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	149838	34692	10012	0	0	0	194542
+2013	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pulp	Peace River Pulp Division	128125	2672	11517	0	0	0	142314
+2013	Wood Product Manufacturing	Millar Western Forest Products Ltd.	Whitecourt Pulp Divison	70496	30	358	0	0	0	70884
+2013	Wood Product Manufacturing	Tolko Industries Ltd.	Tolko High Level Lumber Division	35431	12198	2601	0	0	0	50229
+2013	Wood Product Manufacturing	West Fraser Mills Ltd.	Ranger Board	504	15053	28194	0	0	0	43750
+2013	Wood Product Manufacturing	Ainsworth Lumber Co. Ltd.	Grande Prairie OSB Mill	12545	969	1538	0	0	0	15052
+2013	Wood Product Manufacturing	Weyerhaeuser Company Limited	Edson O.S.B.	13991	169	1270	0	0	0	15430
+2012	Chemical Manufacturing	Alberta Envirofuels	Alberta Envirofuels	231276	628	393	0	0	0	232297
+2012	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	142763	335	354	0	0	3	143455
+2012	Chemical Manufacturing	MEGlobal Canada Inc.	Fort Saskatchewan EOEG	92538	5494	0	0	0	0	98032
+2012	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	142112	106	1029	0	0	0	143247
+2012	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2850683	5413	12257	0	0	39	2868393
+2012	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Chemical Manufacturing Facility	327435	554	235	0	0	0	328224
+2012	Chemical Manufacturing	Shell Chemicals Canada Limited.	Scotford Chemical Plant	340895	364	652	5589	372	0	347873
+2012	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	457330	200	2130	0	0	0	459660
+2012	Chemical Manufacturing	Dow Chemical Canada ULC	Western Canada Operations	1298939	2232	4420	3092	0	0	1308682
+2012	Chemical Manufacturing	Air Products Canada Ltd.	Edmonton Hydrogen Facility	1102062	1016	214	0	0	0	1103291
+2012	Chemical Manufacturing	Dow Chemical Canada ULC	Prentiss Manufacturing Facility	21546	586	26	0	0	0	22159
+2012	Chemical Manufacturing	Methanex Corporation	Methanex Medicine Hat Methanol Plant	286256	2593	1472	0	0	0	290321
+2012	Coal Mining	TransAlta Generation Partnership	Highvale Coal Mine	85224	143720	968	0	0	0	229912
+2012	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	159475	61647	12496	0	0	0	233618
+2012	Coal Mining	Teck Coal Limited	Cheviot Mine (Cardinal River Operations)	100656	24414	8943	0	0	0	134013
+2012	Coal Mining	Grande Cache Coal Corporation	Grande Cache Coal Corporation	116070	18491	11064	0	0	0	145626
+2012	Conventional Oil and Gas Extraction	Blaze Energy Ltd.	Brazeau Gas Plant	85571	61850	1688	0	0	0	149108
+2012	Conventional Oil and Gas Extraction	Keyera Corp	Brazeau River Gas Plant	72828	7887	2526	0	0	0	83240
+2012	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	538089	8815	3284	0	0	0	550188
+2012	Conventional Oil and Gas Extraction	Taqa North Ltd.	East Crossfield Gas Plant 9-14-28-1W5	115174	2171	414	0	0	0	117759
+2012	Conventional Oil and Gas Extraction	Talisman Energy	Edson Gas Plant	215942	8194	1417	0	0	0	225553
+2012	Conventional Oil and Gas Extraction	ConocoPhillips Canada Operations Ltd.	Elmworth Gas Plant	251993	21202	1628	0	0	0	274823
+2012	Conventional Oil and Gas Extraction	Spectra Energy Empress LP	Empress Straddle Gas Plant	293572	4450	1339	0	0	0	299361
+2012	Conventional Oil and Gas Extraction	Plains Midstream Canada	Fort Saskatchewan Storage and Fractionation	66295	70	362	0	0	0	66728
+2012	Conventional Oil and Gas Extraction	Suncor Energy Oil and Gas Partnership	Hanlan Robb Gas Plant	238811	22986	528	0	0	0	262325
+2012	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	374146	26144	2735	0	0	0	403026
+2012	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Judy Creek Gas Conservation Plant	44507	11500	1412	0	0	0	57419
+2012	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Judy Creek Production Complex	8637	4589	440	0	0	0	13665
+2012	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Karr Gas Plant	63325	9186	1552	0	0	0	74063
+2012	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob Amalgamated Sour Gas Plant	223309	14107	3117	0	0	0	240533
+2012	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob South #3 Gas Plant	390788	5848	1897	0	0	0	398533
+2012	Conventional Oil and Gas Extraction	Keyera Corp	Nevis Gas Plant	94623	12310	2868	0	0	0	109801
+2012	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Quirk Creek Gas Plant	116584	3787	1760	0	0	0	122131
+2012	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Ram River	409194	4162	1351	0	0	0	414707
+2012	Conventional Oil and Gas Extraction	Keyera Corp	Rimbey Gas Plant	350367	6442	2259	0	0	0	359067
+2012	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	172452	1780	859	0	0	0	175090
+2012	Conventional Oil and Gas Extraction	Shell Canada Limited	Caroline Complex	480375	1655	4046	0	0	0	486076
+2012	Conventional Oil and Gas Extraction	Shell Canada Limited	Jumping Pound Complex	204063	3379	1344	0	0	0	208786
+2012	Conventional Oil and Gas Extraction	Keyera Corp	Strachan Gas Plant	259380	11126	2656	0	0	0	273161
+2012	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	119376	6202	1316	0	0	0	126894
+2012	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex (Use)	265005	3331	4959	0	0	0	273295
+2012	Conventional Oil and Gas Extraction	SemCams ULC	Windfall 8-17 GP	26579	5477	928	0	0	0	32984
+2012	Conventional Oil and Gas Extraction	Direct Energy Marketing Ltd.	Wildcat Hills Gas Plant	118211	5020	1662	0	0	0	124893
+2012	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	29958	27477	550	0	0	0	57985
+2012	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Olds Gas Plant	108466	3133	2075	0	0	0	113673
+2012	Conventional Oil and Gas Extraction	Mazeppa Processing Partnership Limited	Mazeppa Sour Gas Plant	80129	6414	226	0	0	0	86769
+2012	Conventional Oil and Gas Extraction	AECO Gas Storage Partnership	Suffield Gas Storage Facility	18824	18095	120	0	0	0	37039
+2012	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Galloway Gas Plant	44610	21707	4697	0	0	0	71015
+2012	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Gold Creek Gas Plant	45579	16476	1315	0	0	0	63370
+2012	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	WILD RIVER 4-3	38782	18732	3960	0	0	0	61475
+2012	Conventional Oil and Gas Extraction	ConocoPhillips Canada Operations Ltd.	Berland Sweet Gas Plant	56438	20464	366	0	0	0	77268
+2012	Conventional Oil and Gas Extraction	Devon Canada Corporation	Narraway Gas Plant	54702	9503	845	0	0	0	65050
+2012	Conventional Oil and Gas Extraction	Encana Corporation	Resthaven Sweet Gas Plant 08-11	46373	15320	322	0	0	0	62014
+2012	Conventional Oil and Gas Extraction	Encana Corporation	Sexsmith Sour Gas Plant	57127	441	204	0	0	0	57771
+2012	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Rainbow Lake Gas plant	59296	2920	303	0	0	0	62518
+2012	Conventional Oil and Gas Extraction	Keyera Corp	Gilby Gas Plant	60827	2218	1436	0	0	0	64481
+2012	Conventional Oil and Gas Extraction	Keyera Corp	West Pembina GP	73449	1221	311	0	0	0	74981
+2012	Conventional Oil and Gas Extraction	NAL Resources Management	Sylvan Lake Gas Plant 14-32-037-03W5M	51317	3456	1072	0	0	0	55845
+2012	Conventional Oil and Gas Extraction	Keyera Corp	Minnehik Buck Lake Gas Plant	69874	4412	1052	0	0	0	75339
+2012	Conventional Oil and Gas Extraction	Peyto Exploration and Development Corporation	Peyto Oldman Gas Plant 11-17-055-21W5M	71226	9053	5141	0	0	0	85419
+2012	Conventional Oil and Gas Extraction	Pembina Pipeline Corporation	Empress NGL Extraction Plant	73156	5199	392	0	0	0	78748
+2012	Conventional Oil and Gas Extraction	Spectra Energy Midstream Corporation	Gordondale East Gas Plant	53258	9939	1024	0	0	0	64221
+2012	Conventional Oil and Gas Extraction	Keyera Corp	Simonette Gas Plant	54330	3026	2519	0	0	0	59875
+2012	Conventional Oil and Gas Extraction	Suncor Energy Resources Partnership	Ferrier Gas Plant	47523	6931	1202	0	0	0	55656
+2012	Conventional Oil and Gas Extraction	Talisman Energy	TLM Bigstone West Gas Plant	43917	2035	282	0	0	0	46234
+2012	Conventional Oil and Gas Extraction	Talisman Energy	TLM Wild River Gas Plant	48078	9837	333	0	0	0	58248
+2012	Conventional Oil and Gas Extraction	Veresen Energy Infrastructure Inc.	Hythe Brainard Sour Gas Plant	52360	15854	201	0	0	0	68415
+2012	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Carson Creek GP 4-23	33696	11853	1716	0	0	0	47265
+2012	Conventional Oil and Gas Extraction	Advantage Oil & Gas Ltd.	Glacier Sour Gas Plant 05-02	49201	12955	327	0	0	0	62483
+2012	Conventional Oil and Gas Extraction	Peyto Exploration and Development Corporation	Peyto Nosehill 11-21-55-20W5	49378	7580	7495	0	0	0	64452
+2012	Conventional Oil and Gas Extraction	ConocoPhillips Canada Operations Ltd.	Wolf Lake Sweet Gas Plant	40864	11703	219	0	0	0	52786
+2012	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	PELICAN 12-09	47776	8088	240	0	0	0	56104
+2012	Conventional Oil and Gas Extraction	Pembina Pipeline Corporation	Musreau Gas Plant	56352	18050	459	0	0	0	74861
+2012	Conventional Oil and Gas Extraction	Trilogy Energy Corp.	Kaybob Gas Plant	77726	8746	1322	0	0	0	87793
+2012	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	4716767	1430	21346	0	0	0	4739542
+2012	Electric Power Generation	Calgary Energy Centre No. 2 Inc.	Calgary Energy Centre	441424	821	3513	0	0	0	445759
+2012	Electric Power Generation	TransCanada Energy Ltd.	Carseland Power Plant	324113	553	2476	0	0	0	327143
+2012	Electric Power Generation	Encana Corporation	Cavalier Power Plant	280287	590	2059	0	0	0	282936
+2012	Electric Power Generation	City of Medicine Hat	Electric Utility - Generation	351803	15858	2648	0	0	7	370315
+2012	Electric Power Generation	Capital Power (Alberta) Limited Partnership	Clover Bar Energy Centre	249865	1596	1902	0	0	0	253364
+2012	Electric Power Generation	TransAlta Generation Partnership	Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant	356335	644	2675	0	0	0	359654
+2012	Electric Power Generation	Capital Power Generation Services Inc.	Genesee Thermal Generating Station	8663020	2742	46220	0	0	0	8711982
+2012	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R.Milner Generating Station	704567	1428	3755	0	0	0	709750
+2012	Electric Power Generation	TransAlta Generation Partnership	Keephills Thermal Electric Power Generating Plant	8602145	2436	57197	0	0	0	8661779
+2012	Electric Power Generation	ATCO Power Canada Ltd.	Rainbow Lake Cogeneration Power Plant (Units 4-5)	246161	433	1801	0	0	0	248395
+2012	Electric Power Generation	TransCanada Energy Ltd.	Redwater Cogeneration Plant	186733	296	1359	0	0	0	188388
+2012	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	4902624	1448	22358	0	0	0	4926430
+2012	Electric Power Generation	TransAlta Generation Partnership	Sundance Thermal Electric Power Generating Plant	10169916	2910	68616	0	0	0	10241442
+2012	Electric Power Generation	Nexen Inc.	Balzac Power Station	234838	1019	1794	0	0	0	237651
+2012	Electric Power Generation	University of Alberta Heating Plant	Heating Plant	222597	99	118	0	0	0	222815
+2012	Electric Power Generation	Whitecourt Power Limited Partnership	Whitecourt Electric Power Generating Facility	743	1399	5731	0	0	0	7873
+2012	Electric Power Generation	Enmax Green Power Inc.	Crossfield Energy Centre	85160	165	7	0	0	0	85332
+2012	Electric Power Generation	Canadian Forest Products Ltd.	Canfor Green Energy Combined Heat and Power Plant	1865	580	4003	0	0	0	6447
+2012	Electric Power Generation	"Grande Prairie Generation, Inc."	Northern Prairie Thermal Electric Power Plant	105043	682	511	0	0	0	106237
+2012	Electric Power Generation	DAPP Power LP	DAPP Power LP	831	9	5	0	0	0	845
+2012	Electric Power Generation	Valley Power LP	Valley Power LP	688	6	3	0	0	0	697
+2012	Electric Power Generation	University of Calgary	Central Heating and Cooling Plant	73267	468	558	715	0	0	75007
+2012	Fertilizer Manufacturing	Agrium Inc.	Redwater Fertilizer Operations	1254154	42839	15204	0	0	0	1312197
+2012	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1762597	1895	5050	0	0	0	1769542
+2012	Fertilizer Manufacturing	Agrium Inc.	Carseland Nitrogen Operations	602163	2850	2191	0	0	0	607205
+2012	Fertilizer Manufacturing	Orica Canada Inc.	Carseland Works	418	11	277759	0	0	0	278188
+2012	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operations	573950	3963	1758	0	0	0	579671
+2012	Food Manufacturing	Lantic Inc. Taber Factory	Lantic Inc. Taber Beet Sugar Factory	67544	10209	281	0	0	0	78034
+2012	Miscellaneous Manufacturing	General Scrap Partnership	GenAlta Recycling Inc.	726	0	1	0	0	0	727
+2012	Miscellaneous Manufacturing	General Scrap Partnership	Navajo Metals	2349	2	51	0	0	0	2401
+2012	Natural Gas Distribution	ATCO Gas and Pipelines Ltd.	ATCO Gas - Distribution Systems	10819	138798	60	0	0	0	149677
+2012	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw Plant	143791	104	277	0	0	0	144172
+2012	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc.	Exshaw Cement Plant	866272	1553	0	0	0	0	867825
+2012	Non-Metallic Mineral Product Manufacturing	Lehigh Hanson Materials Ltd.	Edmonton Plant	760690	121	983	0	0	0	761794
+2012	Non-Metallic Mineral Product Manufacturing	Baymag Inc.	Baymag Exshaw Operations	124013	15	180	0	0	0	124209
+2012	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Christina Lake SAGD Bitumen Battery	975808	4405	1650	0	0	0	981864
+2012	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4362031	14930	21574	0	0	0	4398536
+2012	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	260079	1062	357	0	0	0	261498
+2012	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	MacKay River Power Plant	757873	1296	5775	0	0	0	764944
+2012	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	"MacKay River, In-Situ Oil Sands Plant"	150307	717	972	0	0	0	151997
+2012	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex 5-21	264155	4351	740	0	0	0	269246
+2012	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake and Primrose Plant	3425540	81073	20638	0	0	0	3527252
+2012	Oil Sands In Situ Extraction	Nexen Inc.	Long Lake Project	3589945	9492	14644	0	0	0	3614080
+2012	Oil Sands In Situ Extraction	Husky Oil Operations Limited	Tucker Thermal	582710	362	1009	0	0	0	584081
+2012	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Pod One	223070	3739	1084	0	0	0	227893
+2012	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish 1 SAGD Plant	651162	1508	1132	0	0	0	653803
+2012	Oil Sands In Situ Extraction	Shell Canada Limited	Orion Complex	148883	1299	786	0	0	0	150967
+2012	Oil Sands In Situ Extraction	ConocoPhillips Canada Resources Corp.	Surmont SAGD Commercial Battery	516682	646	871	0	0	0	518199
+2012	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Foster Creek SAGD Bitumen Battery (with Cogen)	2161331	4136	5664	0	0	0	2171130
+2012	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Regional Project	204107	491	1034	0	0	0	205631
+2012	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	Firebag	3441317	10650	19147	0	0	502	3471616
+2012	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Algar	242054	4115	1161	0	0	0	247330
+2012	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Cogeneration Facility Phase 2	588536	275	2922	0	0	0	591733
+2012	Oil Sands In Situ Extraction	Statoil Canada Ltd.	Leismer SAGD Bitumen Battery	331348	428	599	0	0	0	332375
+2012	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish 2 SAGD Plant	472062	18715	820	0	0	0	491597
+2012	Oil Sands In Situ Extraction	Southern Pacific Resource Partnership	McKay Thermal Project	68030	859	336	0	0	0	69225
+2012	Oil Sands In Situ Extraction	MacKay Operating Corp	MacKay River Commercial Project	1461	1	3	0	0	0	1464
+2012	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	11256237	1111376	163063	0	0	0	12530676
+2012	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Plant	1266713	1796	7245	0	0	0	1275754
+2012	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Muskeg River Mine	572790	99309	3830	389	0	0	676317
+2012	Oil Sands Mining and Upgrading	Shell Canada Energy Limited	Scotford Upgrader and Upgrader Cogeneration	2936330	17245	20313	0	0	0	2973888
+2012	Oil Sands Mining and Upgrading	Canadian Natural Resources Limited	Horizon Oil Sands Processing Plant and Mine	3203781	414082	15990	0	0	45	3633897
+2012	Oil Sands Mining and Upgrading	Suncor Energy Oil Sands Limited Partnership	Suncor Energy Inc. Oil Sands	8689447	560088	41161	1829	5	21	9292552
+2012	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Jackpine Mine	968216	70554	5300	233	0	0	1044304
+2012	Petroleum and Coal Products Manufacturing	Suncor Energy Products Partnership	Edmonton Refinery	1235261	7551	7661	0	0	0	1250473
+2012	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	1082319	22441	2169	10	0	0	1106939
+2012	Petroleum and Coal Products Manufacturing	Imperial Oil	Strathcona Refinery	1391413	1731	5578	0	0	0	1398722
+2012	Petroleum and Coal Products Manufacturing	Rio Tinto Alcan	Strathcona Works	86327	1	13	0	0	0	86340
+2012	Petroleum and Coal Products Manufacturing	Husky Oil Operations Limited	Lloydminster Refinery	94841	217	412	0	0	0	95471
+2012	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline, Alberta"	227123	12751	2930	0	0	0	242804
+2012	Pipeline Transportation	Alliance Pipeline Ltd.	Alliance Pipeline Ltd. - AB Pipeline System	512144	49966	3626	0	0	0	565737
+2012	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	74903	133247	3066	0	0	0	211217
+2012	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline, Alberta System"	1498897	498661	20767	0	0	0	2018325
+2012	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	355081	19493	4165	0	0	0	378740
+2012	Primary Metal Manufacturing	AltaSteel Ltd.	AltaSteel	74875	25	256	0	0	0	75156
+2012	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	1038	36504	0	0	0	0	37542
+2012	Waste Treatment and Disposal	Waste Management of Canada Corporation	West Edmonton Landfill	1069	67677	131	0	0	0	68877
+2012	Waste Treatment and Disposal	City of Lethbridge	Lethbridge Waste and Recycling Centre Disposal Site	517	65201	12	0	0	0	65730
+2012	Waste Treatment and Disposal	EPCOR Water Services Inc.	Gold Bar Wastewater Treatment Plant	28527	1461	15109	0	0	0	45097
+2012	Waste Treatment and Disposal	Beaver Regional Waste Management Services Commission	Beaver Regional Waste Landfill	12408	70651	187	0	0	0	83245
+2012	Waste Treatment and Disposal	City of Calgary	Shepard Landfill	873	30695	0	0	0	0	31568
+2012	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc.	Alberta-Pacific Forest Industries Inc.	125433	2103	17565	0	0	0	145101
+2012	Wood Product Manufacturing	Weyerhaeuser Company Limited	Grande Prairie Operations	92610	26935	10300	0	0	0	129846
+2012	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	134703	37378	9625	0	0	0	181706
+2012	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pulp	Peace River Pulp Division	131117	2675	10337	0	0	0	144130
+2012	Wood Product Manufacturing	Millar Western Forest Products Ltd.	Whitecourt Pulp Divison	69796	30	358	0	0	0	70184
+2012	Wood Product Manufacturing	Tolko Industries Ltd.	Tolko High Level Lumber Division	33339	12264	2982	0	0	0	48586
+2012	Wood Product Manufacturing	West Fraser Mills Ltd.	Ranger Board	400	16982	25703	0	0	0	43084
+2012	Wood Product Manufacturing	Ainsworth Lumber Co. Ltd.	Grande Prairie OSB Mill	8326	354	1520	0	0	0	10199
+2012	Wood Product Manufacturing	Weyerhaeuser Company Limited	Edson O.S.B.	14193	167	1254	0	0	0	15614
+2011	Chemical Manufacturing	Alberta Envirofuels	Alberta Envirofuels	239254	174	423	0	0	0	239851
+2011	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	136796	327	357	0	0	5	137485
+2011	Chemical Manufacturing	MEGlobal Canada Inc.	Fort Saskatchewan EOEG	110445	7591	1	0	0	0	118037
+2011	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	137742	102	997	0	0	0	138840
+2011	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2957382	8552	13357	0	0	456	2979747
+2011	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Chemical Manufacturing Facility	366902	649	198	0	0	0	367748
+2011	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	339793	228	681	11122	138	0	351962
+2011	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	485251	675	3120	0	0	0	489047
+2011	Chemical Manufacturing	Dow Chemical Canada ULC	Western Canada Operations	1418556	1989	4142	1948	0	0	1426634
+2011	Chemical Manufacturing	Air Products Canada Ltd.	Edmonton Hydrogen Facility	1008912	1031	255	0	0	0	1010198
+2011	Chemical Manufacturing	Dow Chemical Canada ULC	Prentiss Manufacturing Facility	20845	330	19	0	0	0	21194
+2011	Chemical Manufacturing	Methanex Corporation	Methanex Medicine Hat Methanol Plant	225619	3733	34113	0	0	0	263465
+2011	Coal Mining	TransAlta Generation Partnership	Highvale Coal Mine	90549	138595	868	0	0	0	230012
+2011	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	140717	44929	1858	0	0	0	187503
+2011	Coal Mining	Teck Coal Limited	Cheviot Mine (Cardinal River Operations)	96688	22357	9098	0	0	0	128143
+2011	Coal Mining	Grande Cache Coal Corporation	Grande Cache Coal Corporation	134072	179	1303	0	0	0	135554
+2011	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Plant	60366	3860	405	0	0	0	64631
+2011	Conventional Oil and Gas Extraction	Blaze Energy Ltd.	Brazeau Gas Plant	84093	57630	1552	0	0	0	143275
+2011	Conventional Oil and Gas Extraction	Keyera Corp	Brazeau River Gas Plant	61346	4647	1706	0	0	0	67699
+2011	Conventional Oil and Gas Extraction	Cenovus Energy	Caribou North Compressor Station	27826	9713	216	0	0	0	37755
+2011	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	469604	17132	2785	0	0	0	489521
+2011	Conventional Oil and Gas Extraction	Taqa North Ltd.	East Crossfield Gas Plant 9-14-28-1W5	103567	2400	432	0	0	0	106399
+2011	Conventional Oil and Gas Extraction	Talisman Energy	Edson Gas Plant	222934	7473	1444	0	0	0	231852
+2011	Conventional Oil and Gas Extraction	ConocoPhillips Canada (BRC) Partnership	Elmworth Gas Plant	293910	11759	1726	0	0	0	307394
+2011	Conventional Oil and Gas Extraction	Spectra Energy Empress LP	Empress Straddle Gas Plant	344173	4457	1919	0	0	0	350549
+2011	Conventional Oil and Gas Extraction	BP Canada Energy Company	Fort Saskatchewan Storage and Fractionation	63987	89	350	0	0	0	64426
+2011	Conventional Oil and Gas Extraction	Suncor Energy Oil and Gas Partnership	Hanlan Robb Gas Plant	264127	20317	563	0	0	0	285007
+2011	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	346371	27026	2205	0	0	0	375602
+2011	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Judy Creek Gas Conservation Plant	41769	9533	1035	0	0	0	52337
+2011	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Judy Creek Production Complex	23107	7812	1999	0	0	0	32918
+2011	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Karr Gas Plant	61992	13929	1543	0	0	0	77464
+2011	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob Amalgamated Sour Gas Plant	236101	13991	3022	0	0	0	253114
+2011	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob South #3 Gas Plant	396988	5940	1915	0	0	0	404843
+2011	Conventional Oil and Gas Extraction	Keyera Corp	Nevis Gas Plant	94957	13809	3481	0	0	0	112248
+2011	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	124992	7519	852	0	0	0	133364
+2011	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Ram River	448041	4266	1246	0	0	0	453553
+2011	Conventional Oil and Gas Extraction	Keyera Corp	Rimbey Gas Plant	350578	6615	2143	0	0	0	359336
+2011	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	183679	815	279	0	0	0	184773
+2011	Conventional Oil and Gas Extraction	Shell Canada Limited	Caroline Complex	597060	4650	2184	0	0	0	603893
+2011	Conventional Oil and Gas Extraction	Shell Canada Limited	Jumping Pound Complex	229079	5284	624	0	0	0	234987
+2011	Conventional Oil and Gas Extraction	Keyera Corp	Strachan Gas Plant	299468	10353	2472	0	0	0	312292
+2011	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	119562	6421	1304	0	0	0	127288
+2011	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex	353127	7924	5217	0	0	0	366268
+2011	Conventional Oil and Gas Extraction	SemCams ULC	Windfall 8-17 GP	29223	5405	896	0	0	0	35523
+2011	Conventional Oil and Gas Extraction	Direct Energy Marketing Ltd.	Wildcat Hills Gas Plant	115804	4775	1907	0	0	0	122487
+2011	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	27927	27278	541	0	0	0	55746
+2011	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Olds Gas Plant	112938	2840	1904	0	0	0	117682
+2011	Conventional Oil and Gas Extraction	Mazeppa Processing Partnership Limited	Mazeppa Sour Gas Plant	77102	5266	219	0	0	0	82587
+2011	Conventional Oil and Gas Extraction	AECO Gas Storage Partnership	Suffield Gas Storage Facility	57078	26104	406	0	0	0	83588
+2011	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Galloway Gas Plant	41606	23682	4186	0	0	0	69474
+2011	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Gold Creek Gas Plant	43355	19076	1421	0	0	0	63852
+2011	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	WILD RIVER 4-3	38185	22954	4793	0	0	0	65932
+2011	Conventional Oil and Gas Extraction	Cenovus Energy	Suffield K (Koomati) Gas Battery 04-04	44466	20120	588	0	0	0	65174
+2011	Conventional Oil and Gas Extraction	ConocoPhillips Canada (BRC) Partnership	Berland Sweet Gas Plant	44824	18179	288	0	0	0	63292
+2011	Conventional Oil and Gas Extraction	Devon Canada Corporation	Coleman Gas Plant	51206	1573	229	0	0	0	53008
+2011	Conventional Oil and Gas Extraction	Devon Canada Corporation	Narraway Gas Plant	57285	7364	797	0	0	0	65446
+2011	Conventional Oil and Gas Extraction	Encana Corporation	Resthaven Sweet Gas Plant 08-11	43179	14444	300	0	0	0	57923
+2011	Conventional Oil and Gas Extraction	Encana Corporation	Sexsmith Sour Gas Plant	69298	1380	237	0	0	0	70915
+2011	Conventional Oil and Gas Extraction	ExxonMobil Canada Ltd	Lone Pine Creek Gas Plant	49363	4706	209	0	0	0	54278
+2011	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Rainbow Lake Gas plant	59919	2646	315	0	0	0	62880
+2011	Conventional Oil and Gas Extraction	Keyera Corp	Gilby Gas Plant	62636	2365	1635	0	0	0	66636
+2011	Conventional Oil and Gas Extraction	Keyera Corp	West Pembina GP	67683	1395	293	0	0	0	69370
+2011	Conventional Oil and Gas Extraction	NAL Resources Management	Sylvan Lake Gas Plant 14-32-037-03W5M	52071	3787	1550	0	0	0	57407
+2011	Conventional Oil and Gas Extraction	Keyera Corp	Minnehik Buck Lake Gas Plant	60380	2787	497	0	0	0	63664
+2011	Conventional Oil and Gas Extraction	Peyto Exploration and Development Corporation	Peyto Oldman Gas Plant 11-17-055-21W5M	47612	28479	615	0	0	0	76707
+2011	Conventional Oil and Gas Extraction	Provident Energy Ltd.	Empress NGL Extraction Plant	70503	5195	378	0	0	0	76076
+2011	Conventional Oil and Gas Extraction	Spectra Energy Midstream Corporation	Gordondale East Gas Plant	55474	9634	1020	0	0	0	66128
+2011	Conventional Oil and Gas Extraction	Keyera Corp	Simonette Gas Plant	54293	3458	2729	0	0	0	60480
+2011	Conventional Oil and Gas Extraction	Suncor Energy Oil and Gas Partnership	Ferrier Gas Plant	45409	6413	1143	0	0	0	52964
+2011	Conventional Oil and Gas Extraction	Talisman Energy	TLM Bigstone West Gas Plant	44704	4565	287	0	0	0	49555
+2011	Conventional Oil and Gas Extraction	Talisman Energy	TLM Wild River Gas Plant	45271	9473	313	0	0	0	55057
+2011	Conventional Oil and Gas Extraction	Encana Corporation	Hythe Brainard Sour Gas Plant	68372	6822	280	0	0	0	75474
+2011	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Carson Creek GP 4-23	36128	11933	1599	0	0	0	49660
+2011	Conventional Oil and Gas Extraction	Murphy Oil Canada Limited	Seal 04-33-082-15W5	22457	874	48	0	0	0	23378
+2011	Conventional Oil and Gas Extraction	Advantage Oil & Gas Ltd.	Glacier Sour Gas Plant 05-02	59597	13649	377	0	0	0	73623
+2011	Conventional Oil and Gas Extraction	Peyto Exploration and Development Corporation	Nosehill 11-21-55-20W5	40013	15854	8614	0	0	0	64481
+2011	Conventional Oil and Gas Extraction	ConocoPhillips Canada (BRC) Partnership	Wolf Lake Sweet Gas Plant	40689	11666	218	0	0	0	52572
+2011	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	5120895	1530	22895	0	0	0	5145321
+2011	Electric Power Generation	Calgary Energy Centre No. 2 Inc.	Calgary Energy Centre	441320	818	3507	0	0	0	445645
+2011	Electric Power Generation	TransCanada Energy Ltd.	Carseland Power Plant	315919	536	2402	0	0	0	318857
+2011	Electric Power Generation	Encana Corporation	Cavalier Power Plant	195208	475	1472	0	0	0	197155
+2011	Electric Power Generation	City of Medicine Hat	Electric Utility - Generation	324263	3105	2468	0	0	7	329844
+2011	Electric Power Generation	Capital Power (Alberta) Limited Partnership	Clover Bar Energy Centre	193825	1238	1476	0	0	0	196538
+2011	Electric Power Generation	TransAlta Generation Partnership	Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant	371760	678	2817	0	0	0	375255
+2011	Electric Power Generation	Capital Power Generation Services Inc.	Genesee Thermal Generating Station	9333694	2897	49048	0	0	0	9385639
+2011	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R.Milner Generating Station	1029980	460	4430	0	0	0	1034870
+2011	Electric Power Generation	TransAlta Generation Partnership	Keephills Thermal Electric Power Generating Plant	7904738	2085	49147	0	0	0	7955970
+2011	Electric Power Generation	ATCO Power Canada Ltd.	Rainbow Lake Cogeneration Power Plant (Units 4-5)	272794	487	2024	0	0	0	275304
+2011	Electric Power Generation	Alberta Power (2000) Ltd.	Rainbow Lake Generating Station (Units 1-3)	54115	346	412	0	0	0	54873
+2011	Electric Power Generation	TransCanada Energy Ltd.	Redwater Cogeneration Plant	188286	299	1369	0	0	0	189954
+2011	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	5550107	1623	25520	0	0	0	5577250
+2011	Electric Power Generation	TransAlta Generation Partnership	Sundance Thermal Electric Power Generating Plant	11385738	3078	72986	0	0	0	11461803
+2011	Electric Power Generation	Nexen Inc.	Balzac Power Station	196160	935	1502	0	0	0	198597
+2011	Electric Power Generation	University of Alberta Heating Plant	Heating Plant	216228	96	115	0	0	0	216439
+2011	Electric Power Generation	Whitecourt Power Partnership	Whitecourt Electric Power Generating Facility	1082	1339	5699	0	0	0	8120
+2011	Electric Power Generation	Enmax Green Power Inc.	Crossfield Energy Centre	113170	218	20	0	0	0	113408
+2011	Electric Power Generation	Canadian Forest Products Ltd.	Grande Prairie Combined Heat and Power Plant	3053	601	4411	0	0	0	8066
+2011	Electric Power Generation	Constellation Energy	Northern Prairie Thermal Electric Power Plant	114360	98	558	0	0	0	115016
+2011	Electric Power Generation	DAPP Power LP	DAPP Power LP	780	9	5	0	0	0	794
+2011	Electric Power Generation	Valley Power LP	Valley Power LP	702	6	3	0	0	0	711
+2011	Fertilizer Manufacturing	Agrium Inc.	Redwater Fertilizer Operations	1104998	56137	31582	0	0	0	1192717
+2011	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1763118	433	4934	0	0	0	1768484
+2011	Fertilizer Manufacturing	Agrium Inc.	Carseland Nitrogen Operations	535223	27298	2004	0	0	0	564525
+2011	Fertilizer Manufacturing	Orica Canada Inc.	Carseland Works	458	11	362870	0	0	0	363339
+2011	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operations	591766	2700	1890	0	0	0	596356
+2011	Food Manufacturing	Lantic Inc. Taber Factory	Lantic Inc. Taber Beet Sugar Factory	57494	10071	241	0	0	0	67806
+2011	Miscellaneous Manufacturing	General Scrap Partnership	GenAlta Recycling Inc.	676	0	0	0	0	0	676
+2011	Miscellaneous Manufacturing	General Scrap Partnership	Navajo Metals	1900	2	52	0	0	0	1954
+2011	Natural Gas Distribution	ATCO Gas and Pipelines Ltd.	ATCO Gas - Distribution Systems	10695	160597	59	0	0	0	171351
+2011	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw Plant	141955	102	249	0	0	0	142306
+2011	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc.	Exshaw Cement Plant	950726	413	1114	0	0	0	952253
+2011	Non-Metallic Mineral Product Manufacturing	"Lehigh Cement, a Division of Lehigh Hanson Materials Ltd."	Edmonton Plant	798908	1272	209	0	0	0	800389
+2011	Non-Metallic Mineral Product Manufacturing	Baymag Inc.	Baymag Exshaw Operations	124917	15	183	0	0	0	125115
+2011	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Christina Lake SAGD Bitumen Battery	453229	1585	756	0	0	0	455570
+2011	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4551849	15211	22652	0	0	0	4589711
+2011	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	254428	1111	368	0	0	0	255906
+2011	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	MacKay River Power Plant	843772	1427	6376	0	0	0	851575
+2011	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	"MacKay River, In-Situ Oil Sands Plant"	108879	595	631	0	0	0	110104
+2011	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex 5-21	307352	3258	1579	0	0	0	312189
+2011	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake and Primrose Plant	2878635	90401	17652	0	0	0	2986687
+2011	Oil Sands In Situ Extraction	Nexen Inc.	Long Lake Project	3164902	11860	13943	44	0	0	3190749
+2011	Oil Sands In Situ Extraction	Husky Oil Operations Limited	Tucker Thermal	416669	285	723	0	0	0	417678
+2011	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Pod One	221018	3714	1106	0	0	0	225838
+2011	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish 1 SAGD Plant	693910	5764	1224	0	0	0	700898
+2011	Oil Sands In Situ Extraction	Shell Canada Limited	Orion Complex	159478	380	832	0	0	0	160690
+2011	Oil Sands In Situ Extraction	ConocoPhillips Canada Resources Corp.	Surmont SAGD Commercial Battery	467482	732	783	0	0	0	468997
+2011	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Foster Creek SAGD Bitumen Battery (with Cogen)	2032776	2829	7784	0	0	0	2043389
+2011	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Regional Project	182845	1128	919	0	0	0	184893
+2011	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	Firebag	1988967	1621	10309	0	0	0	2000896
+2011	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Algar	245008	4091	1153	0	0	0	250252
+2011	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Cogeneration Facility Phase 2	570833	270	2873	0	0	0	573977
+2011	Oil Sands In Situ Extraction	Statoil Canada Ltd.	Leismer SAGD Bitumen Battery	260045	292	521	0	0	0	260858
+2011	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish 2 SAGD Plant	165719	6303	304	0	0	0	172326
+2011	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	11745044	1104588	180123	0	0	0	13029755
+2011	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Plant	1216667	1725	6957	0	0	0	1225349
+2011	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Muskeg River Mine	629678	91126	4121	0	0	0	724925
+2011	Oil Sands Mining and Upgrading	Shell Canada Energy Limited	Scotford Upgrader and Upgrader Cogeneration	2899043	20660	17684	0	0	0	2937387
+2011	Oil Sands Mining and Upgrading	Canadian Natural Resources Limited	Horizon Oil Sands Processing Plant and Mine	1503074	168091	6432	0	0	164	1677762
+2011	Oil Sands Mining and Upgrading	Suncor Energy Oil Sands Limited Partnership	Suncor Energy Inc. Oil Sands	8229323	176536	113779	0	0	0	8519638
+2011	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Jackpine Mine	908729	63405	4772	0	0	0	976907
+2011	Petroleum and Coal Products Manufacturing	Suncor Energy Products Partnership	Edmonton Refinery	1293408	6874	6956	0	0	0	1307238
+2011	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	1081670	22785	2318	0	0	0	1106773
+2011	Petroleum and Coal Products Manufacturing	Imperial Oil	Strathcona Refinery	1469050	2402	7762	0	0	0	1479214
+2011	Petroleum and Coal Products Manufacturing	Rio Tinto Alcan	Strathcona Works	70877	1	10	0	0	0	70888
+2011	Petroleum and Coal Products Manufacturing	Husky Oil Operations Limited	Lloydminster Refinery	93834	211	425	0	0	0	94469
+2011	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline, Alberta"	246760	13566	3183	0	0	0	263509
+2011	Pipeline Transportation	Alliance Pipeline Ltd.	Alliance Pipeline Ltd. - AB Pipeline System	520906	24439	3697	0	0	0	549041
+2011	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	81622	149790	3438	0	0	0	234850
+2011	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline, Alberta System"	1377174	470389	19350	0	0	0	1866913
+2011	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	327096	16214	3457	0	0	0	346767
+2011	Primary Metal Manufacturing	AltaSteel Ltd.	AltaSteel	77587	26	263	0	0	0	77876
+2011	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	946	35399	0	0	0	0	36345
+2011	Waste Treatment and Disposal	Waste Management of Canada Corporation	West Edmonton Landfill	1088	80477	134	0	0	0	81698
+2011	Waste Treatment and Disposal	City of Lethbridge	Lethbridge Waste and Recycling Centre Disposal Site	1048	75226	119	0	0	0	76393
+2011	Waste Treatment and Disposal	EPCOR Water Services Inc.	Gold Bar Wastewater Treatment Plant	25541	990	13763	0	0	0	40294
+2011	Waste Treatment and Disposal	Beaver Regional Waste Management Services Commission	Beaver Regional Waste Landfill	11724	67801	68	0	0	0	79592
+2011	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc.	Alberta-Pacific Forest Industries Inc.	99317	2162	18162	0	0	0	119641
+2011	Wood Product Manufacturing	Weyerhaeuser Company Limited	Grande Prairie Operations	95766	25747	9708	0	0	0	131221
+2011	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	134448	34595	9830	0	0	0	178872
+2011	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pulp	Peace River Pulp Division	75082	24522	9004	0	0	0	108608
+2011	Wood Product Manufacturing	Millar Western Forest Products Ltd.	Whitecourt Pulp Divison	68337	30	328	0	0	0	68695
+2011	Wood Product Manufacturing	Tolko Industries Ltd.	Tolko High Level Lumber Division	33435	10578	3187	0	0	0	47200
+2011	Wood Product Manufacturing	West Fraser Mills Ltd.	Ranger Board	455	16690	24958	0	0	0	42102
+2011	Wood Product Manufacturing	Ainsworth Lumber Co. Ltd.	Grande Prairie OSB Mill	8226	346	1526	0	0	0	10098
+2011	Wood Product Manufacturing	Weyerhaeuser Company Limited	Edson O.S.B.	14246	167	1254	0	0	0	15667
+2010	Chemical Manufacturing	Alberta Envirofuels Inc.	Alberta Envirofuels	257786	264	1606	0	0	0	259657
+2010	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	102746	2643	423	0	0	5	105816
+2010	Chemical Manufacturing	MEGlobal Canada Inc.	Fort Saskatchewan EOEG	147575	2156	2	0	0	0	149732
+2010	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	135628	102	1015	0	0	0	136745
+2010	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2819071	2570	14139	0	0	0	2835780
+2010	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Chemical Manufacturing Facility	345417	931	221	0	0	0	346569
+2010	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	351855	214	690	94	2	0	352855
+2010	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	497575	688	3145	0	0	0	501408
+2010	Chemical Manufacturing	Dow Chemical Canada ULC	Western Canada Operations	1384853	2171	3262	3432	0	0	1393717
+2010	Chemical Manufacturing	Air Products Canada Ltd.	Edmonton Hydrogen Facility	979771	1036	268	0	0	0	981074
+2010	Chemical Manufacturing	Dow Chemical Canada ULC	Prentiss Manufacturing Facility	24841	321	20	0	0	0	25182
+2010	Coal Mining	TransAlta Generation Partnership	Highvale Coal Mine	92909	139526	888	0	0	0	233323
+2010	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	155206	46990	1106	0	0	0	203302
+2010	Coal Mining	Teck Coal Limited	Cheviot Mine (Cardinal River Operations)	91956	30300	3100	0	0	0	125355
+2010	Coal Mining	Grande Cache Coal Corporation	Grande Cache Coal Corporation	81549	127	3152	0	0	0	84828
+2010	Coal Mining	Prairie Mines & Royality Ltd	Genesee Mine	32766	26161	303	0	0	0	59229
+2010	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Plant	178998	10293	1203	0	0	0	190494
+2010	Conventional Oil and Gas Extraction	Blaze Energy Ltd.	Brazeau Gas Plant	78490	58384	1578	0	0	0	138453
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Brazeau River Gas Plant	66589	4789	2152	0	0	0	73530
+2010	Conventional Oil and Gas Extraction	Cenovus Energy Inc.	Caribou North Compressor Station	25915	8511	208	0	0	0	34633
+2010	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	430313	11673	2538	0	0	0	444524
+2010	Conventional Oil and Gas Extraction	Taqa North Ltd.	East Crossfield Gas Plant 9-14-28-1W5	118142	5069	495	0	0	0	123707
+2010	Conventional Oil and Gas Extraction	Talisman Energy	Edson Gas Plant	222611	7680	1438	0	0	0	231729
+2010	Conventional Oil and Gas Extraction	ConocoPhillips Canada Operations Ltd.	Elmworth Gas Plant	301628	11169	1767	0	0	0	314564
+2010	Conventional Oil and Gas Extraction	Spectra Energy Empress LP	Empress Straddle Gas Plant	338015	5161	1615	0	0	0	344791
+2010	Conventional Oil and Gas Extraction	BP Canada Energy Company	Fort Saskatchewan Storage and Fractionation	57216	106	308	0	0	0	57630
+2010	Conventional Oil and Gas Extraction	Suncor Energy Oil and Gas Partnership	Hanlan Robb Gas Plant	305425	18600	721	0	0	0	324746
+2010	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	298309	21176	1465	0	0	0	320951
+2010	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Hays Gas Plant	77108	4705	1799	0	0	0	83612
+2010	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Judy Creek Gas Conservation Plant	43832	7659	1087	0	0	0	52578
+2010	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Judy Creek Production Complex	47664	9021	3987	0	0	0	60672
+2010	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Karr Gas Plant	54022	11444	1215	0	0	0	66680
+2010	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob Amalgamated Sour Gas Plant	229273	13641	2549	0	0	0	245463
+2010	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob South #3 Gas Plant	457220	5992	2290	0	0	0	465503
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Nevis Gas Plant	101932	19733	6544	0	0	0	128210
+2010	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	132791	8141	891	0	0	0	141823
+2010	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Ram River	431068	5640	1258	0	0	0	437967
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Rimbey Gas Plant	340314	6684	2453	0	0	0	349450
+2010	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	179383	962	15	0	0	0	180360
+2010	Conventional Oil and Gas Extraction	Shell Canada Limited	Caroline Complex	550236	4581	89	0	0	0	554907
+2010	Conventional Oil and Gas Extraction	Shell Canada Limited	Jumping Pound Complex	225358	5530	25	0	0	0	230913
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Strachan Gas Plant	274480	9685	2426	0	0	0	286591
+2010	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	116699	6326	1260	0	0	0	124284
+2010	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex	324272	6295	3929	0	0	0	334496
+2010	Conventional Oil and Gas Extraction	SemCams ULC	Windfall 8-17 GP	46656	6741	1170	0	0	0	54567
+2010	Conventional Oil and Gas Extraction	Direct Energy Marketing Ltd.	Wildcat Hills Gas Plant	122988	4741	2120	0	0	0	129849
+2010	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	34942	27948	668	0	0	0	63558
+2010	Conventional Oil and Gas Extraction	Apache Canada Ltd.	Marten Hill Gas Plant	39140	19594	3351	0	0	0	62086
+2010	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Olds Gas Plant	111798	3059	1852	0	0	0	116710
+2010	Conventional Oil and Gas Extraction	Mazeppa Processing Partnership Limited	Mazeppa Sour Gas Plant	76909	4994	205	0	0	0	82107
+2010	Conventional Oil and Gas Extraction	AECO Gas Storage Partnership	Suffield Gas Storage Facility	40714	21796	273	0	0	0	62783
+2010	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Galloway Gas Plant	42889	21196	4243	0	0	0	68327
+2010	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Gold Creek Gas Plant	54627	18185	963	0	0	0	73775
+2010	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	WILD RIVER 4-3	47358	21930	4513	0	0	0	73802
+2010	Conventional Oil and Gas Extraction	Cenovus Energy Inc.	Suffield K (Koomati) Gas Battery 04-04	48357	25252	625	0	0	0	74234
+2010	Conventional Oil and Gas Extraction	Cenovus Energy Inc.	Suffield Oil Battery 01-27	51405	1766	342	0	0	0	53513
+2010	Conventional Oil and Gas Extraction	ConocoPhillips Canada Resources Corp.	Berland Sweet Gas Plant	42572	17735	274	0	0	0	60580
+2010	Conventional Oil and Gas Extraction	Devon Canada Corporation	Coleman Gas Plant	52842	1587	249	0	0	0	54678
+2010	Conventional Oil and Gas Extraction	Devon Canada Corporation	Devon Elmworth Gas Gathering System	37212	28085	828	0	0	0	66125
+2010	Conventional Oil and Gas Extraction	Devon Canada Corporation	Narraway Gas Plant	60056	6878	770	0	0	0	67704
+2010	Conventional Oil and Gas Extraction	Encana Corporation	Resthaven Sweet Gas Plant 08-11	39808	13679	288	0	0	0	53775
+2010	Conventional Oil and Gas Extraction	Encana Corporation	Sexsmith Sour Gas Plant	74751	3390	264	0	0	0	78405
+2010	Conventional Oil and Gas Extraction	ExxonMobil Canada Ltd	Lone Pine Creek Gas Plant	51357	3749	204	0	0	0	55310
+2010	Conventional Oil and Gas Extraction	Fairborne Energy Ltd.	Fairborne Clive 04-15-040-24W4M	35866	10292	1801	0	0	0	47959
+2010	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Rainbow Lake Gas plant	55282	2222	286	0	0	0	57790
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Chinchaga Gas Plant	41020	11262	984	0	0	0	53266
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Gilby Gas Plant	64530	2497	1529	0	0	0	68556
+2010	Conventional Oil and Gas Extraction	Keyera Corp	West Pembina GP	73886	1835	257	0	0	0	75978
+2010	Conventional Oil and Gas Extraction	NAL Resources Management	Sylvan Lake Gas Plant 14-32-037-03W5M	50752	3697	1538	0	0	0	55987
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Minnehik Buck Lake Gas Plant	76403	3404	999	0	0	0	80806
+2010	Conventional Oil and Gas Extraction	Peyto Exploration and Development Corporation	Peyto Oldman Gas Plant 11-17-055-21W5M	46984	17110	602	0	0	0	64696
+2010	Conventional Oil and Gas Extraction	Provident Energy Ltd.	Empress NGL Extraction Plant	69236	5229	371	0	0	0	74836
+2010	Conventional Oil and Gas Extraction	Spectra Energy Midstream Corporation	Gordondale East Gas Plant	50137	9169	971	0	0	0	60277
+2010	Conventional Oil and Gas Extraction	Keyera Corp	Simonette Gas Plant	60223	4089	2788	0	0	0	67100
+2010	Conventional Oil and Gas Extraction	Suncor Energy Oil and Gas Partnership	Ferrier Gas Plant	45730	6189	1004	0	0	0	52924
+2010	Conventional Oil and Gas Extraction	Talisman Energy	TLM Bigstone West Gas Plant	44819	10534	254	0	0	0	55606
+2010	Conventional Oil and Gas Extraction	Talisman Energy	TLM Wild River Gas Plant	42521	8387	295	0	0	0	51203
+2010	Conventional Oil and Gas Extraction	Encana Corporation	Hythe Brainard Sour Gas Plant	50660	7575	173	0	0	0	58407
+2010	Conventional Oil and Gas Extraction	Pengrowth Energy Corporation	Carson Creek GP 4-23	37151	13626	2011	0	0	0	52788
+2010	Conventional Oil and Gas Extraction	Murphy Oil Canada Limited	Seal 04-33-082-15W5	52823	8704	41	0	0	0	61569
+2010	Conventional Oil and Gas Extraction	ConocoPhillips Canada (BRC) Partnership	Wolf Lake Sweet Gas Plant	41097	11334	217	0	0	0	52648
+2010	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	4956088	1280	21936	0	0	0	4979305
+2010	Electric Power Generation	Calgary Energy Centre No. 2 Inc.	Calgary Energy Centre	262676	483	2082	0	0	0	265242
+2010	Electric Power Generation	TransCanada Energy Ltd.	Carseland Power Plant	311646	531	2391	0	0	0	314567
+2010	Electric Power Generation	Encana Corporation	Cavalier Power Plant	210319	497	1580	0	0	0	212397
+2010	Electric Power Generation	City of Medicine Hat	Electric Utility - Generation	322733	2975	2606	0	0	0	328314
+2010	Electric Power Generation	Capital Power (Alberta) Limited Partnership	Clover Bar Energy Centre	180942	1155	1377	0	0	0	183474
+2010	Electric Power Generation	TransAlta Generation Partnership	Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant	352195	686	2854	0	0	0	355735
+2010	Electric Power Generation	Capital Power Generation Services Inc.	Genesee Thermal Generating Station	9069744	2930	49459	0	0	0	9122133
+2010	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R.Milner Generating Station	1034452	357	4459	0	0	0	1039268
+2010	Electric Power Generation	TransAlta Generation Partnership	Keephills Thermal Electric Power Generating Plant	6781095	1796	42704	0	0	0	6825596
+2010	Electric Power Generation	ATCO Power Canada Ltd.	Rainbow Lake Cogeneration Power Plant (Units 4-5)	236452	469	1922	0	0	0	238842
+2010	Electric Power Generation	TransCanada Energy Ltd.	Redwater Cogeneration Plant	173390	288	1317	0	0	0	174994
+2010	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	4887015	1277	22032	0	0	0	4910324
+2010	Electric Power Generation	TransAlta Generation Partnership	Sundance Thermal Electric Power Generating Plant	15680326	4367	103222	0	0	0	15787915
+2010	Electric Power Generation	TransAlta Generation Partnership	Wabamun Thermal Electric Power Generating Plant	545416	171	4057	0	0	0	549644
+2010	Electric Power Generation	Nexen Inc.	Balzac Power Station	220121	995	1702	0	0	0	222818
+2010	Electric Power Generation	University of Alberta Heating Plant	Heating Plant	189847	88	292	0	0	0	190228
+2010	Electric Power Generation	Whitecourt Power Limited Partnership	Whitecourt Electric Power Generating Facility	826	1298	5491	0	0	0	7614
+2010	Electric Power Generation	Enmax Green Power Inc.	Crossfield Energy Centre	81489	150	66	0	0	0	81704
+2010	Electric Power Generation	TransAlta Generation Partnership	Grande Prairie Combined Heat and Power Plant	3208	265	1277	0	0	0	4749
+2010	Fertilizer Manufacturing	Agrium Inc.	Redwater Fertilizer Operations	946431	62040	11845	0	0	0	1020316
+2010	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1695054	411	4692	0	0	0	1700157
+2010	Fertilizer Manufacturing	Agrium Inc.	Carseland Nitrogen Operations	508833	5905	1964	0	0	0	516702
+2010	Fertilizer Manufacturing	Orica Canada Inc.	Carseland Works	1042	24	399387	0	0	0	400453
+2010	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operations	551583	1415	1643	0	0	0	554641
+2010	Food Manufacturing	Lantic Inc. Taber Factory	Lantic Inc. Taber Beet Sugar Factory	60230	10017	252	0	0	0	70499
+2010	Food Manufacturing	ADM Agri-Industries	ADM AGRI-INDUSTRIES - ADM Lloydminster	51186	26	298	0	0	0	51510
+2010	Natural Gas Distribution	ATCO Gas and Pipelines Ltd.	ATCO Gas - Distribution Systems and Carbon Plant	23992	212373	1194	0	0	0	237559
+2010	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw Plant	156128	24	193	0	0	0	156344
+2010	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc.	Exshaw Cement Plant	907730	0	0	0	0	0	907730
+2010	Non-Metallic Mineral Product Manufacturing	"Lehigh Cement, a Division of Lehigh Hanson Materials Ltd."	Edmonton Plant	795449	0	0	0	0	0	795449
+2010	Non-Metallic Mineral Product Manufacturing	Baymag Inc.	Baymag Exshaw Operations	106861	13	154	0	0	0	107027
+2010	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Christina Lake SAGD Bitumen Battery	260971	1167	443	0	0	0	262581
+2010	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4465632	14007	22310	0	0	0	4501950
+2010	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	251049	1075	377	0	0	0	252501
+2010	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	MacKay River Power Plant	858469	1441	6549	0	0	0	866459
+2010	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	"MacKay River, In-Situ Oil Sands Plant"	143568	628	776	0	0	0	144972
+2010	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex	312161	3717	46	0	0	0	315924
+2010	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake and Primrose Plant	2975872	107246	18732	0	0	0	3101851
+2010	Oil Sands In Situ Extraction	Nexen Inc.	Long Lake Project	3242914	11528	13762	0	0	0	3268204
+2010	Oil Sands In Situ Extraction	Husky Oil Operations Limited	Tucker Thermal	275427	166	492	0	0	0	276084
+2010	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Pod One	190842	807	280	0	0	0	191930
+2010	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish SAGD Plant	534389	4794	944	0	0	0	540128
+2010	Oil Sands In Situ Extraction	Shell Canada Limited	Orion Complex	137106	420	1	0	0	0	137528
+2010	Oil Sands In Situ Extraction	ConocoPhillips Canada Resources Corp.	Surmont SAGD Commercial Battery	447261	745	748	0	0	0	448754
+2010	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Foster Creek SAGD Bitumen Battery (with Cogen)	1973454	3574	7781	0	0	0	1984809
+2010	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Regional Project	164163	1520	804	0	0	0	166488
+2010	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	Firebag	1558347	1966	7889	0	0	0	1568203
+2010	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Algar	117790	130	265	0	0	0	118184
+2010	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Cogeneration Facility Phase 2	527716	250	2656	0	0	0	530621
+2010	Oil Sands In Situ Extraction	Statoil Canada Ltd.	Leismer SAGD Bitumen Battery	52769	270	110	0	0	0	53149
+2010	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	11893517	746917	179725	0	0	0	12820159
+2010	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Plant	1060623	1607	6462	0	0	0	1068692
+2010	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Muskeg River Mine and Jackpine Mine	817929	53135	6489	0	0	0	877553
+2010	Oil Sands Mining and Upgrading	Shell Canada Energy Limited	Scotford Upgrader and Upgrader Cogeneration	1775188	12837	10063	0	0	0	1798088
+2010	Oil Sands Mining and Upgrading	Canadian Natural Resources Limited	Horizon Oil Sands Processing Plant and Mine	2684003	349456	9896	0	0	164	3043518
+2010	Oil Sands Mining and Upgrading	Suncor Energy Oil Sands Limited Partnership	Suncor Energy Inc. Oil Sands	8048768	392509	169577	0	0	0	8610854
+2010	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albiansands Muskeg River Mine Expansion	117258	55	601	0	0	0	117915
+2010	Petroleum and Coal Products Manufacturing	Suncor Energy Inc.	Edmonton Refinery	1309572	7043	6370	0	0	0	1322985
+2010	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	1028186	13338	2327	0	0	0	1043852
+2010	Petroleum and Coal Products Manufacturing	Imperial Oil	Strathcona Refinery	1475757	2335	8355	0	0	0	1486446
+2010	Petroleum and Coal Products Manufacturing	Rio Tinto Alcan	Strathcona Works	80558	1	10	0	0	0	80568
+2010	Petroleum and Coal Products Manufacturing	Husky Oil Operations Limited	Lloydminster Refinery	92287	148	417	0	0	0	92852
+2010	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline, Alberta"	188748	12685	2453	0	0	0	203886
+2010	Pipeline Transportation	Alliance Pipeline Ltd.	Alberta Pipeline System	526265	26400	3731	0	0	0	556396
+2010	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	78935	144401	3392	0	0	0	226728
+2010	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline, Alberta System"	1307230	409792	18791	0	0	0	1735813
+2010	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	323126	5621	3277	0	0	0	332024
+2010	Primary Metal Manufacturing	AltaSteel Ltd.	AltaSteel	72329	25	255	0	0	0	72609
+2010	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	0	34962	0	0	0	0	34962
+2010	Waste Treatment and Disposal	Waste Management of Canada Corporation	West Edmonton Landfill	1244	80292	153	0	0	0	81689
+2010	Waste Treatment and Disposal	City of Lethbridge	Lethbridge Waste and Recycling Centre Disposal Site	658	84226	75	0	0	0	84959
+2010	Waste Treatment and Disposal	Beaver Regional Waste Management Services Commission	Beaver Regional Waste Landfill	7707	66226	53	0	0	0	73985
+2010	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc.	Alberta-Pacific Forest Industries Inc.	92039	2055	16840	0	0	0	110934
+2010	Wood Product Manufacturing	Weyerhaeuser Company Limited	Grande Prairie Operations	68493	26048	9200	0	0	0	103740
+2010	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	132779	15831	8379	0	0	0	156990
+2010	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pulp	Peace River Pulp Division	69469	24831	9570	0	0	0	103870
+2010	Wood Product Manufacturing	Millar Western Forest Products Ltd.	Whitecourt Pulp Divison	61074	28	298	0	0	0	61399
+2010	Wood Product Manufacturing	Tolko Industries Ltd.	Tolko High Level Lumber Division	30079	5292	2614	0	0	0	37985
+2010	Wood Product Manufacturing	West Fraser Mills Ltd.	Ranger Board	0	13571	78255	0	0	0	91826
+2010	Wood Product Manufacturing	Ainsworth Lumber Co. Ltd.	Grande Prairie OSB Mill	9375	263	1168	0	0	0	10806
+2010	Wood Product Manufacturing	Weyerhaeuser Company Limited	Edson O.S.B.	15636	160	1355	0	0	0	17152
+2009	Chemical Manufacturing	Alberta Envirofuels Inc.	Alberta Envirofuels	321396	454	1967	0	0	0	323817
+2009	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	111394	92	583	0	0	0	112069
+2009	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2600656	3052	11840	0	0	0	2615548
+2009	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Chemical Manufacturing Facility	160879	1335	189	0	0	0	162403
+2009	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	228838	175	563	4315	316	0	234207
+2009	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	425127	746	11756	0	0	0	437630
+2009	Chemical Manufacturing	Dow Chemical Canada ULC	Western Canada Operations	1434230	2253	3494	1144	0	0	1441121
+2009	Chemical Manufacturing	Air Products Canada Ltd.	Edmonton Hydrogen Facility	1067921	1055	343	0	0	0	1069319
+2009	Coal Mining	TransAlta Generation Partnership	Highvale Coal Mine	91868	130215	872	0	0	0	222955
+2009	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	153817	48440	1090	0	0	0	203347
+2009	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Plant	182667	11192	1258	0	0	0	195116
+2009	Conventional Oil and Gas Extraction	Blaze Energy Ltd.	Brazeau Gas Plant	93836	60592	2786	0	0	0	157215
+2009	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	424531	10088	2645	0	0	0	437263
+2009	Conventional Oil and Gas Extraction	Taqa North Ltd.	East Crossfield Gas Plant 9-14-28-1W5	118380	5107	434	0	0	0	123922
+2009	Conventional Oil and Gas Extraction	Talisman Energy Inc.	Edson Gas Plant	224456	7105	1359	0	0	0	232920
+2009	Conventional Oil and Gas Extraction	ConocoPhillips Canada Operations Ltd.	Elmworth Gas Plant	208008	24797	1621	0	0	0	234426
+2009	Conventional Oil and Gas Extraction	Spectra Energy Empress LP	Empress Straddle Gas Plant	372660	4276	1738	0	0	0	378674
+2009	Conventional Oil and Gas Extraction	Suncor Energy Oil and Gas Partnership	Hanlan Robb Gas Plant	369678	18083	932	0	0	0	388693
+2009	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	299086	20972	1471	0	0	0	321529
+2009	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob Amalgamated Sour Gas Plant	211605	12652	2366	0	0	0	226623
+2009	Conventional Oil and Gas Extraction	SemCams ULC	Kaybob South #3 Gas Plant	460471	6303	2312	0	0	0	469087
+2009	Conventional Oil and Gas Extraction	Keyera Energy	Nevis Gas Plant	112663	21202	7241	0	0	0	141107
+2009	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	132468	8640	943	0	0	0	142050
+2009	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Ram River	534353	4221	1439	0	0	0	540013
+2009	Conventional Oil and Gas Extraction	Keyera Energy	Rimbey Gas Plant	276300	7431	3026	0	0	0	286757
+2009	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	184146	1211	289	0	0	0	185646
+2009	Conventional Oil and Gas Extraction	Shell Canada Limited	Caroline Complex	585932	4413	1499	0	0	0	591844
+2009	Conventional Oil and Gas Extraction	Shell Canada Limited	Jumping Pound Complex	200093	6152	547	0	0	0	206791
+2009	Conventional Oil and Gas Extraction	Keyera Energy	Strachan Gas Plant	285693	10268	2523	0	0	0	298484
+2009	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	116307	5984	1301	0	0	0	123591
+2009	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex	210666	4802	3426	0	0	0	218894
+2009	Conventional Oil and Gas Extraction	SemCams ULC	Windfall 8-17 GP	156823	11833	4111	0	0	0	172767
+2009	Conventional Oil and Gas Extraction	Suncor Energy Oil and Gas Partnership	Wildcat Hills Gas Plant	116445	4844	2368	0	0	0	123657
+2009	Conventional Oil and Gas Extraction	Pengrowth Corporation	Olds Gas Plant	107482	3200	1730	0	0	0	112413
+2009	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	5147641	1325	22781	0	0	0	5171747
+2009	Electric Power Generation	Calgary Energy Centre No. 2 Inc.	Calgary Energy Centre	332625	627	2662	0	0	0	335913
+2009	Electric Power Generation	TransCanada Energy Ltd.	Carseland Power Plant	320273	543	2453	0	0	0	323268
+2009	Electric Power Generation	Encana Corporation	Cavalier Power Plant	173874	437	1300	0	0	0	175610
+2009	Electric Power Generation	City of Medicine Hat	Electric Utility - Generation	305218	2924	2434	0	0	0	310576
+2009	Electric Power Generation	TransAlta Generation Partnership	Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant	340137	664	2759	0	0	0	343559
+2009	Electric Power Generation	Capital Power Generation Services Inc.	Genesee Thermal Generating Station	9489671	2980	50798	0	0	0	9543449
+2009	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R.Milner Generating Station	971698	356	5131	0	0	0	977186
+2009	Electric Power Generation	TransAlta Generation Partnership	Keephills Thermal Electric Power Generating Plant	6024127	1622	38577	0	0	0	6064326
+2009	Electric Power Generation	ATCO Power Canada Ltd.	Rainbow Lake Cogeneration Power Plant (Units 4-5)	228191	453	1855	0	0	0	230498
+2009	Electric Power Generation	TransCanada Energy Ltd.	Redwater Cogeneration Plant	174603	289	1325	0	0	0	176217
+2009	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	4863345	1274	21828	0	0	0	4886447
+2009	Electric Power Generation	TransAlta Generation Partnership	Sundance Thermal Electric Power Generating Plant	14386311	4102	96308	0	0	0	14486722
+2009	Electric Power Generation	TransAlta Generation Partnership	Wabamun Thermal Electric Power Generating Plant	2193220	671	15880	0	0	0	2209770
+2009	Electric Power Generation	Nexen Inc.	Balzac Power Station	216154	983	1669	0	0	0	218806
+2009	Electric Power Generation	University of Alberta Heating Plant	Heating Plant	195057	91	300	0	0	0	195447
+2009	Electric Power Generation	Whitecourt Power Limited Partnership	Whitecourt Electric Power Generating Facility	1005	1335	4795	0	0	0	7134
+2009	Fertilizer Manufacturing	Agrium Inc.	Redwater Fertilizer Operations	828228	30516	10726	0	0	0	869470
+2009	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1413083	371	4229	0	0	0	1417682
+2009	Fertilizer Manufacturing	Agrium Inc.	Carseland Nitrogen Operations	528252	2883	2102	0	0	0	533237
+2009	Fertilizer Manufacturing	Orica Canada Inc.	Carseland Works	472	13	324617	0	0	0	325102
+2009	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operations	577421	1129	1777	0	0	0	580327
+2009	Food Manufacturing	Lantic Inc. Taber Factory	Lantic Inc. Taber Beet Sugar Factory	45181	9949	189	0	0	0	55319
+2009	Natural Gas Distribution	ATCO Gas and Pipelines Ltd.	ATCO Gas - Distribution Systems and Carbon Plant	29789	198745	1770	0	0	0	230304
+2009	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw Plant	146115	20	166	0	0	0	146301
+2009	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc.	Exshaw Cement Plant	824088	0	0	0	0	0	824088
+2009	Non-Metallic Mineral Product Manufacturing	Lehigh Cement	Edmonton Plant	617210	0	0	0	0	0	617210
+2009	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Christina Lake SAGD Bitumen Battery	235681	1283	374	0	0	0	237339
+2009	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4201016	13809	21818	0	0	0	4236644
+2009	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	240992	1056	374	0	0	0	242422
+2009	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	MacKay River Power Plant	855267	1452	6553	0	0	0	863272
+2009	Oil Sands In Situ Extraction	Suncor Energy Inc.	"MacKay River, In-Situ Oil Sands Plant"	144307	567	780	0	0	0	145655
+2009	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex	258286	3771	1339	0	0	0	263396
+2009	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	PAW In-Situ Oilsands Facilities	2833565	93425	17910	0	0	0	2944899
+2009	Oil Sands In Situ Extraction	Nexen Inc.	Long Lake Project	1358012	17545	4994	0	0	0	1380552
+2009	Oil Sands In Situ Extraction	Husky Oil Operations Limited	Tucker Thermal	272380	167	480	0	0	0	273026
+2009	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Pod One	205797	27623	305	0	0	0	233726
+2009	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish SAGD Plant	422199	1615	808	0	0	0	424622
+2009	Oil Sands In Situ Extraction	Shell Canada Limited	Orion Complex	131847	828	745	0	0	0	133421
+2009	Oil Sands In Situ Extraction	ConocoPhillips Canada Resources Corp.	Surmont SAGD Commercial Battery	377799	1433	636	0	0	0	379868
+2009	Oil Sands In Situ Extraction	"Cenovus FCCL Ltd., as operator for FCCL Partnership"	Foster Creek SAGD Bitumen Battery (with Cogen)	1651489	3479	6762	0	0	0	1661729
+2009	Oil Sands In Situ Extraction	MEG Energy Corp.	MEG Christina Lake Regional Project	195490	3769	1419	0	0	0	200678
+2009	Oil Sands In Situ Extraction	Suncor Energy Oil Sands Limited Partnership	Firebag	1405595	1063	7302	0	0	0	1413960
+2009	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	10886101	732093	158759	0	0	0	11776953
+2009	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Plant	1112128	1677	6825	0	0	0	1120629
+2009	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Muskeg River Mine	713555	31859	5393	0	0	0	750807
+2009	Oil Sands Mining and Upgrading	Shell Canada Energy Limited	Scotford Upgrader and Upgrader Cogeneration	1840933	8228	10758	0	0	0	1859919
+2009	Oil Sands Mining and Upgrading	Canadian Natural Resources Limited	Horizon Oil Sands Processing Plant and Mine	2392133	227988	8680	0	0	0	2628801
+2009	Oil Sands Mining and Upgrading	Suncor Energy Oil Sands Limited Partnership	Suncor Energy Inc. Oil Sands	8444788	402368	159155	0	0	0	9006312
+2009	Petroleum and Coal Products Manufacturing	Suncor Energy Inc.	Edmonton Refinery	1501097	8775	8292	0	0	0	1518163
+2009	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	921758	13954	1922	0	0	0	937634
+2009	Petroleum and Coal Products Manufacturing	Imperial Oil	Strathcona Refinery	1343852	3177	7896	0	0	0	1354924
+2009	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline, Alberta"	198937	12698	2561	0	0	0	214196
+2009	Pipeline Transportation	Alliance Pipeline Ltd.	Alberta Pipeline System	532345	23177	3744	0	0	0	559266
+2009	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	81313	144437	3634	0	0	0	229383
+2009	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline, Alberta System"	1375012	436901	19690	0	0	0	1831603
+2009	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	301780	5106	3163	0	0	0	310048
+2009	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc.	Alberta-Pacific Forest Industries Inc.	95556	2020	16908	0	0	0	114484
+2009	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	136864	26291	8708	0	0	0	171864
+2008	Chemical Manufacturing	Alberta Envirofuels Inc.	Alberta Envirofuels Inc.	278726	731	1658	0	0	0	281115
+2008	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	117209	3084	385	0	0	5	120683
+2008	Chemical Manufacturing	MEGlobal Canada Inc.	FS1 EOEG	72500	1074	0	0	0	0	73574
+2008	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	103160	90	545	0	0	0	103795
+2008	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2695556	3162	11548	0	0	91	2710357
+2008	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Manufacturing Facility	167899	1157	234	0	0	0	169290
+2008	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	316373	254	759	2240	0	0	319625
+2008	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	421047	696	3152	0	0	0	424895
+2008	Chemical Manufacturing	Dow Chemical Canada ULC	Western Canada Operations	1387461	2161	3213	2288	0	0	1395122
+2008	Chemical Manufacturing	Air Products Canada Ltd	Edmonton-1 and 2 Hydrogen Facility	648319	224	894	0	0	0	649437
+2008	Chemical Manufacturing	Dow Chemical Canada ULC	Prentiss Manufacturing Facility	37452	631	27	0	0	0	38109
+2008	Coal Mining	TransAlta Generation Partnership	Highvale Coal Mine	98563	143759	928	0	0	0	243249
+2008	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	132383	48884	954	0	0	0	182221
+2008	Coal Mining	Cardinal River Coals Limited (Teck Coal Limited)	Cheviot Mine (Cardinal River Operations)	70112	31093	6137	0	0	0	107342
+2008	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Processing Plant	214967	13475	1597	0	0	0	230039
+2008	Conventional Oil and Gas Extraction	Imperial Oil Resources	Bonnie Glen Gas Plant	40977	12121	642	0	0	0	53739
+2008	Conventional Oil and Gas Extraction	Blaze Energy Ltd.	Brazeau Gas Plant	94784	59784	1864	0	0	0	156432
+2008	Conventional Oil and Gas Extraction	Keyera Energy	Brazeau Gas Plant	80385	6937	3074	0	0	0	90396
+2008	Conventional Oil and Gas Extraction	EnCana Oil & Gas Co. Ltd.	Caribou North Compressor Station	50866	15645	361	0	0	0	66872
+2008	Conventional Oil and Gas Extraction	Bonavista Petroleum Ltd.	Carstairs - Crossfield Gas Plant	75249	987	440	0	0	0	76677
+2008	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	349698	9710	2173	0	0	0	361582
+2008	Conventional Oil and Gas Extraction	PrimeWest Energy Inc.	East Crossfield Gas Plant 9-14-28-01W4	136559	7300	528	0	0	0	144387
+2008	Conventional Oil and Gas Extraction	Talisman Energy Inc.	Edson Gas Plant	230324	12161	1454	0	0	0	243939
+2008	Conventional Oil and Gas Extraction	ConocoPhillips Canada (BRC) Ltd.	Elmworth Gas Plant	219040	25923	1754	0	0	0	246717
+2008	Conventional Oil and Gas Extraction	Spectra Energy Empress LP	Empress Straddle Plant System	374139	4612	1752	0	0	0	380503
+2008	Conventional Oil and Gas Extraction	Petro-Canada Oil & Gas	Hanlan Robb Gas Plant	391970	18298	919	0	0	0	411187
+2008	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	246114	20071	1137	0	0	0	267322
+2008	Conventional Oil and Gas Extraction	SemCams ULC	KA 1-12 GP	223740	14075	2474	0	0	0	240289
+2008	Conventional Oil and Gas Extraction	SemCams ULC	K3 1-15 GP	459933	6882	2551	0	0	0	469366
+2008	Conventional Oil and Gas Extraction	Keyera Energy	Nevis Gas Plant	105908	10553	462	0	0	0	116923
+2008	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	86680	6450	667	0	0	0	93797
+2008	Conventional Oil and Gas Extraction	Husky Oil Operations Ltd	Ram River	657158	4754	1413	0	0	0	663324
+2008	Conventional Oil and Gas Extraction	Keyera Energy	Rimbey Gas Plant	232136	8153	2794	0	0	0	243083
+2008	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	176453	1107	299	0	0	0	177859
+2008	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Caroline Complex	540411	4480	1326	0	0	0	546216
+2008	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Jumping Pound Gas Plant	270676	6558	756	0	0	0	277989
+2008	Conventional Oil and Gas Extraction	Keyera Energy	Strachan GP	263823	10494	2487	0	0	0	276804
+2008	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	113579	6265	1253	0	0	0	121097
+2008	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex	258217	4885	3295	0	0	0	266397
+2008	Conventional Oil and Gas Extraction	SemCams ULC	Windfall 8-17 GP	150504	15005	4305	0	0	0	169814
+2008	Conventional Oil and Gas Extraction	Petro-Canada Oil & Gas	Wildcat Hills Gas Plant	125539	4721	2632	0	0	0	132892
+2008	Conventional Oil and Gas Extraction	Pengrowth Corporation	Olds Gas Plant	108365	3175	1858	0	0	0	113399
+2008	Conventional Oil and Gas Extraction	Mazeppa Processing Partnership	Mazeppa Sour Gas Plant	76828	4399	190	0	0	0	81416
+2008	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	5051042	1272	21922	0	0	0	5074236
+2008	Electric Power Generation	Calgary Energy Centre No. 2 Inc	Calgary Energy Center	272333	507	2169	0	0	0	275008
+2008	Electric Power Generation	TransCanada Energy Ltd.	"Carseland Power Plant, Alberta"	307824	531	2372	0	0	0	310727
+2008	Electric Power Generation	Encana Corporation	Cavalier Power Plant	157387	422	1206	0	0	0	159016
+2008	Electric Power Generation	City of Medicine Hat	"CITY OF MEDICINE HAT, ELECTRIC UTILITY - GENERATION"	345629	3053	2660	0	0	0	351342
+2008	Electric Power Generation	TransAlta Generation Partnership	Fort Saskatchewan Thermal Electric(Cogeneration) Power Plant	342240	667	2773	0	0	0	345680
+2008	Electric Power Generation	EPCOR Power Generation Services Inc.	Genesee Thermal Generating Station	8315862	2685	45336	0	0	0	8363883
+2008	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R. Milner Generating Station	752295	302	3970	0	0	0	756567
+2008	Electric Power Generation	TransAlta Generation Partnership	Keephills Thermal Electric Power Generating Plant	6088588	1700	40246	0	0	0	6130535
+2008	Electric Power Generation	ATCO Power Canada Ltd	Rainbow Lake Cogeneration Power Plant (Units 4-5)	241250	480	1961	0	0	0	243692
+2008	Electric Power Generation	Alberta Power (2000) Ltd.	Rainbow Lake Generating Station (Units 1-3)	29269	59	238	0	0	0	29565
+2008	Electric Power Generation	TransCanada Energy Ltd.	"Redwater Cogeneration Facility, Alberta"	174002	291	1326	0	0	0	175619
+2008	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	5995812	1548	26579	0	0	0	6023939
+2008	Electric Power Generation	TransAlta Generation Partnership	Sundance Thermal Electric Power Generating Plant	14791591	4238	99567	0	0	0	14895396
+2008	Electric Power Generation	TransAlta Generation Partnership	Wabamun Thermal Electric Power Generating Plant	2414593	731	17380	0	0	0	2432704
+2008	Electric Power Generation	ATCO Power Canada Ltd.	Poplar Hill Generating Station	17972	36	146	0	0	0	18154
+2008	Electric Power Generation	Alberta Power (2000) Ltd.	Sturgeon Generating Station	0	0	0	0	0	0	0
+2008	Electric Power Generation	ATCO Power Canada Ltd.	Valleyview Generating Station	7606	15	62	0	0	0	7683
+2008	Electric Power Generation	Nexen Inc.	Balzac Power Station	180748	887	1398	0	0	0	183032
+2008	Electric Power Generation	TransCanada Energy Ltd.	Bear Creek Power Plant	78331	153	635	0	0	0	79118
+2008	Electric Power Generation	Canadian Gas and Electric	Grande Praire Combined Heat and Power Plant	2148	649	4794	0	0	0	7591
+2008	Fertilizer Manufacturing	Agrium Inc.	Agrium Redwater Fertilizer Operation	1144570	19011	13342	0	0	0	1176922
+2008	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1635508	415	4729	0	0	0	1640652
+2008	Fertilizer Manufacturing	Agrium Inc	Carseland Nitrogen Operations	513130	16730	2000	0	0	0	531860
+2008	Fertilizer Manufacturing	Orica Canada Inc	Carseland Works	556	16	534339	0	0	0	534911
+2008	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operation	507100	959	1521	0	0	0	509580
+2008	Miscellaneous Manufacturing	General Scrap Partnership	GenAlta Recycling Inc.	679	0	0	0	0	0	679
+2008	Miscellaneous Manufacturing	General Scrap Partnership	Navajo Metals	1802	2	56	0	0	0	1860
+2008	Natural Gas Distribution	ATCO Gas and Pipelines Ltd	ATCO Gas - Distribution Systems and Carbon Plant	33182	200591	2067	0	0	0	235840
+2008	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw	157606	23	188	0	0	0	157817
+2008	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc	Exshaw Cement Plant	1112560	0	0	0	0	0	1112560
+2008	Non-Metallic Mineral Product Manufacturing	Lehigh Cement	Lehigh Inland Cement	838009	0	0	0	0	0	838009
+2008	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Christina Lake SAGD Bitumen Battery	176864	1356	293	0	0	0	178512
+2008	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4497260	13431	23079	0	0	0	4533770
+2008	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Foster Creek Cogeneration Facility	468145	864	5159	0	0	66	474234
+2008	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Foster Creek SAGD Bitumen Battery	678474	4921	1053	0	0	0	684447
+2008	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	233115	1450	365	0	0	0	234931
+2008	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	"Mackay River Power Plant, Alberta"	779410	1369	6055	0	0	0	786834
+2008	Oil Sands In Situ Extraction	Petro-Canada	"MacKay River, In-Situ Oil Sands Plant"	168299	251	918	0	0	0	169467
+2008	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex	349230	1911	1808	0	0	0	352949
+2008	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake/Primrose Thermal Operation	2775477	86869	17343	0	0	0	2879689
+2008	Oil Sands In Situ Extraction	Nexen Inc.	Long Lake Project	724456	28795	4235	0	0	0	757486
+2008	Oil Sands In Situ Extraction	Husky Oil Operations Limited	Tucker Thermal	248262	228	411	0	0	0	248901
+2008	Oil Sands In Situ Extraction	Connacher Oil and Gas Limited	Great Divide	154946	480	245	0	0	0	155671
+2008	Oil Sands In Situ Extraction	Devon Canada Corporation	Jackfish SAGD Plant	264247	2622	576	0	0	0	267445
+2008	Oil Sands In Situ Extraction	Shell Canada Limited	Orion Complex	106807	829	594	0	0	0	108231
+2008	Oil Sands In Situ Extraction	ConocoPhillips Canada Resources Corp.	Surmont Central Processing Facility	323482	2205	542	0	0	0	326229
+2008	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	10991999	756861	141774	0	0	0	11890633
+2008	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Plant	1133307	1617	6500	0	0	0	1141424
+2008	Oil Sands Mining and Upgrading	Shell Canada Energy	Shell Albian Sands Muskeg River Mine	538703	28785	3873	0	0	0	571361
+2008	Oil Sands Mining and Upgrading	Shell Canada Energy Limited	Scotford Upgrader and Upgrader Cogeneration	1772093	6259	10960	0	0	0	1789312
+2008	Oil Sands Mining and Upgrading	Suncor Energy Inc. Oil Sands	Suncor Energy Inc. Oil Sands	8392037	402976	87579	0	0	0	8882592
+2008	Oil Sands Mining and Upgrading	Canadian Natural Resources Limited	Horizon Oil Sands Processing Plant and Mine	438940	3486	2195	0	0	0	444621
+2008	Petroleum and Coal Products Manufacturing	Petro-Canada	Edmonton Refinery	1421967	8801	8416	0	0	0	1439183
+2008	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	996548	9313	2442	0	0	0	1008302
+2008	Petroleum and Coal Products Manufacturing	Imperial Oil Limited	Strathcona Refinery	1406461	2624	8160	0	0	0	1417246
+2008	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline, Alberta"	259393	8070	3326	0	0	0	270789
+2008	Pipeline Transportation	Alliance Pipeline Ltd.	Alberta Pipeline System	543457	19570	3787	0	0	0	566814
+2008	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	79069	145618	3685	0	0	0	228372
+2008	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline, Alberta System"	1508450	332942	21495	0	0	0	1862887
+2008	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	285363	4681	2864	0	0	0	292908
+2008	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	13656	91400	0	0	0	0	105056
+2008	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc. acting as a	Alberta-Pacific Forest Industries Inc. Pulp Mill	91675	2121	17695	0	0	0	111491
+2008	Wood Product Manufacturing	Weyerhaeuser Company Limited	Grande Prairie Operations	70821	28143	8977	0	0	0	107942
+2008	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	119473	23346	8889	0	0	0	151709
+2008	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pu	Peace River Pulp Division	73001	35997	9946	0	0	0	118944
+2007	Chemical Manufacturing	Alberta Envirofuels Inc.	Alberta Envirofuels Inc.	341051	303	2068	0	0	0	343422
+2007	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	122527	3033	391	0	0	5	125956
+2007	Chemical Manufacturing	Celanese Canada Inc.	Edmonton Facility	127291	101	502	0	0	0	127894
+2007	Chemical Manufacturing	MEGlobal Canada Inc.	FS1 EOEG	94183	1105	0	0	0	0	95289
+2007	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	117267	97	616	0	0	0	117979
+2007	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2498808	2950	11209	0	0	0	2512966
+2007	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Manufacturing Facility	223037	942	212	0	0	0	224191
+2007	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	330265	193	615	0	0	0	331073
+2007	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	408112	689	3099	0	0	0	411900
+2007	Chemical Manufacturing	Dow Chemical Canada Inc.	Western Canada Operations	1427852	2262	3899	2288	0	0	1436301
+2007	Chemical Manufacturing	Air Products Canada Ltd	Edmonton-1 Hydrogen Facility	476846	263	298	0	0	0	477407
+2007	Chemical Manufacturing	Dow Chemical Canada Inc.	Prentiss Manufacturing Facility	43594	845	12	0	0	0	44451
+2007	Coal Mining	TransAlta Utilties Corporation	Highvale Coal Mine	85959	149995	755	0	0	0	236710
+2007	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	113924	45664	773	0	0	0	160362
+2007	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Processing Plant	192190	11745	1392	0	0	0	205326
+2007	Conventional Oil and Gas Extraction	Imperial Oil Resources	Bonnie Glen Gas Plant	238211	26380	3457	0	0	0	268048
+2007	Conventional Oil and Gas Extraction	Blaze Energy Ltd.	Brazeau Gas Plant	97619	56227	1832	0	0	0	155678
+2007	Conventional Oil and Gas Extraction	Keyera Energy	Brazeau Gas Plant	93026	7179	3671	0	0	0	103876
+2007	Conventional Oil and Gas Extraction	EnCana Oil & Gas Co. Ltd.	Caribou North Compressor Station	68826	24281	445	0	0	0	93551
+2007	Conventional Oil and Gas Extraction	Bonavista Petroleum Ltd.	Carstairs - Crossfield Gas Plant	105365	1223	615	0	0	0	107203
+2007	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	402840	13978	2437	0	0	0	419256
+2007	Conventional Oil and Gas Extraction	PrimeWest Energy Inc.	East Crossfield Gas Plant 9-14-28-01W4	131415	6983	480	0	0	0	138878
+2007	Conventional Oil and Gas Extraction	Talisman Energy Inc.	Edson Gas Plant	209549	13035	3230	0	0	0	225814
+2007	Conventional Oil and Gas Extraction	ConocoPhillips Canada	Elmworth Gas Plant	177399	15713	1582	0	0	0	194695
+2007	Conventional Oil and Gas Extraction	Spectra Energy Empress LP	Empress Straddle Plant System	350542	4544	1666	0	0	0	356752
+2007	Conventional Oil and Gas Extraction	Petro-Canada Oil & Gas	Hanlan Robb Gas Plant	435073	18161	869	0	0	0	454103
+2007	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	223277	17149	999	0	0	0	241426
+2007	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Gas Conservation Plant (JCGCP)	71199	12130	1994	0	0	0	85323
+2007	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Production Complex	82286	11504	3633	0	0	0	97423
+2007	Conventional Oil and Gas Extraction	SemCams ULC	KA 1-12 GP	215576	12879	2283	0	0	0	230738
+2007	Conventional Oil and Gas Extraction	SemCams ULC	K3 1-15 GP	420085	7727	3698	0	0	0	431510
+2007	Conventional Oil and Gas Extraction	Spectra Energy Field Services Canada	Nevis Gas Plant	109159	7073	218	0	0	0	116450
+2007	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	91149	6423	626	0	0	0	98197
+2007	Conventional Oil and Gas Extraction	Husky Energy	Ram River	752727	5990	2594	0	0	0	761311
+2007	Conventional Oil and Gas Extraction	Keyera Energy	Rimbey Gas Plant	232496	9193	3180	0	0	0	244868
+2007	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	164274	1430	318	0	0	0	166021
+2007	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Caroline Complex	499918	4316	1140	0	0	0	505374
+2007	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Jumping Pound Gas Plant	275564	6824	770	0	0	0	283158
+2007	Conventional Oil and Gas Extraction	Keyera Energy	Strachan GP	263848	10354	2423	0	0	0	276625
+2007	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	117107	6352	1258	0	0	0	124717
+2007	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex	494439	8128	5818	0	0	0	508384
+2007	Conventional Oil and Gas Extraction	SemCams ULC	Windfall 8-17 GP	168543	15533	4455	0	0	0	188531
+2007	Conventional Oil and Gas Extraction	Petro-Canada Oil & Gas	Wildcat Hills Gas Plant	127972	4679	2704	0	0	0	135354
+2007	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	67467	30142	1024	0	0	0	98633
+2007	Conventional Oil and Gas Extraction	Pengrowth Corporation	Olds Gas Plant	116500	3092	1785	0	0	0	121377
+2007	Conventional Oil and Gas Extraction	Mazeppa Processing Partnership	Mazeppa Sour Gas Plant	82931	4645	175	0	0	0	87750
+2007	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	5104168	1259	21749	0	0	0	5127177
+2007	Electric Power Generation	Calgary Energy Centre	Calgary Energy Center	198080	406	1593	0	0	0	200079
+2007	Electric Power Generation	TransCanada Energy Ltd.	"Carseland Power Plant, Alberta"	343503	525	3951	0	0	0	347979
+2007	Electric Power Generation	Encana Corporation	Cavalier Power Plant	162686	328	1177	0	0	0	164190
+2007	Electric Power Generation	City of Medicine Hat	"CITY OF MEDICINE HAT, ELECTRIC UTILITY - GENERATION"	284249	3021	2222	0	0	0	289491
+2007	Electric Power Generation	TransAlta Cogeneration LP	Fort Saskatchewan Thermal Electric (Cogeneration) Power Plan	348302	675	2805	0	0	0	351783
+2007	Electric Power Generation	EPCOR Power Generation Services Inc.	Genesee Thermal Generating Station	9428201	2912	49363	0	0	0	9480475
+2007	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R. Milner Generating Station	983179	349	5127	0	0	0	988656
+2007	Electric Power Generation	TransAlta Utilities Corporation	Keephills Thermal Electric Power Generating Plant	6572725	1812	43132	0	0	0	6617670
+2007	Electric Power Generation	ATCO Power Alberta Limited Partnership	Rainbow Lake Cogeneration Power Plant (Units 4-5)	264282	517	2148	0	0	0	266946
+2007	Electric Power Generation	Alberta Power (2000) Ltd.	Rainbow Lake Generating Station (Units 1-3)	13106	26	107	0	0	0	13238
+2007	Electric Power Generation	TransCanada Energy Ltd.	"Redwater Cogeneration Facility, Alberta"	134822	194	1481	0	0	0	136497
+2007	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	5852534	1527	26225	0	0	0	5880286
+2007	Electric Power Generation	TransAlta Utilities Corporation	SUNDANCE THERMAL ELECTRIC POWER GENERATING PLANT	15281609	4409	104521	0	0	0	15390539
+2007	Electric Power Generation	TransAlta Utilties Corporation	Wabamun Thermal Electric Power Generating Plant	1922712	588	13984	0	0	0	1937285
+2007	Electric Power Generation	ATCO Power Alberta Limited Partnership	Poplar Hill Generating Station	17377	34	141	0	0	0	17553
+2007	Electric Power Generation	Alberta Power (2000) Ltd.	Sturgeon Generating Station	1145	2	9	0	0	0	1156
+2007	Electric Power Generation	ATCO Power Alberta Limited Partnership	Valleyview Generating Station	2554	5	21	0	0	0	2579
+2007	Electric Power Generation	Nexen Inc.	Balzac Power Station	117516	680	903	0	0	0	119099
+2007	Electric Power Generation	TransCanada Energy Ltd.	Bear Creek Power Plant	74432	130	954	0	0	0	75516
+2007	Fertilizer Manufacturing	Agrium Inc.	Agrium Redwater Fertilizer Operation	679764	30290	12516	0	0	0	722570
+2007	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1604736	403	4591	0	0	0	1609729
+2007	Fertilizer Manufacturing	Agrium Inc	Carseland Nitrogen Operations	505309	14750	1865	0	0	0	521924
+2007	Fertilizer Manufacturing	Orica Canada Inc	Carseland Works	468	12	778400	0	0	0	778880
+2007	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operation	600797	636	1806	0	0	0	603238
+2007	Miscellaneous Manufacturing	General Scrap Partnership	GenAlta Recycling Inc.	617	0	0	0	0	0	617
+2007	Miscellaneous Manufacturing	General Scrap Partnership	Navajo Metals	1358	1	30	0	0	0	1389
+2007	Natural Gas Distribution	ATCO Gas and Pipelines Ltd	ATCO Gas - Distribution Systems and Carbon Plant	27854	232530	1612	0	0	0	261996
+2007	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw	164713	23	187	0	0	0	164923
+2007	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc	Exshaw Cement Plant	1128518	0	0	0	0	0	1128518
+2007	Non-Metallic Mineral Product Manufacturing	Lehigh Inland Cement Limited	Lehigh Inland Cement	849720	0	0	0	0	0	849720
+2007	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Christina Lake SAGD Bitumen Battery	111236	161	178	0	0	0	111574
+2007	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4502694	12568	23155	0	0	0	4538416
+2007	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Foster Creek Cogeneration Facility	500448	782	5509	0	0	0	506739
+2007	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Foster Creek SAGD Bitumen Battery	632379	658	1042	0	0	0	634079
+2007	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	214741	1739	340	0	0	0	216819
+2007	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	"Mackay River Power Plant, Alberta"	560484	1221	9622	0	0	0	571328
+2007	Oil Sands In Situ Extraction	Petro-Canada	"MacKay River, In-Situ Oil Sands Plant"	158991	374	862	0	0	0	160227
+2007	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex	332506	2249	1712	0	0	0	336466
+2007	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake/Primrose Thermal Operation	2377860	88080	15863	0	0	0	2481803
+2007	Oil Sands In Situ Extraction	Nexen Inc./Opti Canada Inc.	Long Lake Project	120913	13327	688	0	0	0	134928
+2007	Oil Sands In Situ Extraction	Husky Oil Operations Ltd	Tucker Thermal	248896	899	402	0	0	0	250197
+2007	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	11913664	767567	141884	0	0	0	12823115
+2007	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Plant	1147641	1654	6590	0	0	0	1155885
+2007	Oil Sands Mining and Upgrading	Albian Sands Energy Inc.	Muskeg River Mine	444398	38632	3238	0	0	0	486268
+2007	Oil Sands Mining and Upgrading	Shell Canada Energy Limited	Scotford Upgrader and Upgrader Cogeneration	1811231	10311	10698	0	0	0	1832240
+2007	Oil Sands Mining and Upgrading	Suncor Energy Inc.  Oil Sands	Suncor Energy Inc.  Oil Sands	8800098	429413	96737	0	0	0	9326247
+2007	Petroleum and Coal Products Manufacturing	Petro-Canada	Edmonton Refinery	1744268	9160	9268	0	0	0	1762696
+2007	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	1023994	7007	2397	0	0	0	1033398
+2007	Petroleum and Coal Products Manufacturing	Imperial Oil Limited	Strathcona Refinery	1529748	2612	10272	0	0	0	1542633
+2007	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline, Alberta"	303782	8151	3915	0	0	0	315848
+2007	Pipeline Transportation	Alliance Pipeline Ltd.	Alberta Pipeline System	551369	31978	3831	0	0	0	587178
+2007	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	87727	161116	4455	0	0	0	253298
+2007	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline, Alberta System"	1954687	306388	28293	0	0	0	2289368
+2007	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	255217	5267	3085	0	0	0	263569
+2007	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	13315	91600	0	0	0	0	104915
+2007	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc. acting as a	Alberta-Pacific Forest Industries Inc. Pulp Mill	77926	2250	17590	0	0	0	97766
+2007	Wood Product Manufacturing	Weyerhaeuser Company Limited	Grande Prairie Operations	78578	28290	10066	0	0	0	116934
+2007	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	135987	10272	9230	0	0	0	155490
+2007	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pu	Peace River Pulp Division	66395	19264	10012	0	0	0	95670
+2006	Chemical Manufacturing	Alberta Envirofuels Inc.	Alberta Envirofuels Inc.	336836	1400	2056	0	0	0	340292
+2006	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	125507	1	2071	0	0	0	127579
+2006	Chemical Manufacturing	Celanese Canada Inc.	Edmonton Facility	532792	483	1865	0	0	0	535140
+2006	Chemical Manufacturing	MEGlobal Canada Inc.	FS1 EOEG	101655	1551	0	0	0	0	103206
+2006	Chemical Manufacturing	INEOS Canada Partnership	Joffre LAO Plant	129733	60	656	0	0	0	130450
+2006	Chemical Manufacturing	NOVA Chemicals Corporation	NOVA Chemicals Corporation (Joffre)	2743524	1976	12739	0	0	0	2758239
+2006	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Manufacturing Facility	296558	1765	246	0	0	0	298569
+2006	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	292096	46	1044	2734	0	0	295919
+2006	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	383073	187	1900	0	0	0	385161
+2006	Chemical Manufacturing	Dow Chemical Canada Inc.	Western Canada Operations	1539139	1814	2473	3432	0	0	1546857
+2006	Chemical Manufacturing	Air Products Canada Ltd	Edmonton Hydrogen Facility	275075	0	1392	0	0	0	276467
+2006	Chemical Manufacturing	Dow Chemical Canada Inc.	Prentiss Manufacturing Facility	32546	1184	14	0	0	0	33744
+2006	Coal Mining	TransAlta Utilties Corporation	Highvale Coal Mine	71920	146908	633	0	0	0	219460
+2006	Coal Mining	Coal Valley Resources Inc.	Coal Valley Mine	115256	96	808	0	0	0	116159
+2006	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Processing Plant	211023	34349	1782	0	0	0	247154
+2006	Conventional Oil and Gas Extraction	Imperial Oil Resources	Bonnie Glen Gas Plant	313386	33375	4053	0	0	0	350814
+2006	Conventional Oil and Gas Extraction	Petro-Canada Oil & Gas	Brazeau Gas Plant	128476	13820	5812	0	0	0	148108
+2006	Conventional Oil and Gas Extraction	Keyera Energy	Brazeau GP	88754	7408	3695	0	0	0	99857
+2006	Conventional Oil and Gas Extraction	Encana Corporation	Caribou North Compressor Station	79161	25602	507	0	0	0	105270
+2006	Conventional Oil and Gas Extraction	Bonavista Petroleum Ltd.	Carstairs - Crossfield Gas Plant	98523	3077	572	0	0	0	102172
+2006	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	323773	7319	3111	0	0	0	334203
+2006	Conventional Oil and Gas Extraction	PrimeWest Energy Inc.	East Crossfield Gas Plant 9-14-28-01W4	147186	6917	533	0	0	0	154637
+2006	Conventional Oil and Gas Extraction	Talisman Energy Inc.	Edson Gas Plant	224404	13098	3454	0	0	0	240956
+2006	Conventional Oil and Gas Extraction	ConocoPhillips Canada	Elmworth Gas Plant	164363	12331	1469	0	0	0	178163
+2006	Conventional Oil and Gas Extraction	Duke Energy Empress LP	Empress Straddle Plant System	367230	4105	2235	0	0	0	373570
+2006	Conventional Oil and Gas Extraction	Petro-Canada Oil & Gas	Hanlan Robb Gas Plant	455351	18725	992	0	0	0	475068
+2006	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	237329	17394	1061	0	0	0	255784
+2006	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Hays Gas Plant	38572	15248	4500	0	0	0	58320
+2006	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Gas Conservation Plant (JCGCP)	124342	29212	6064	0	0	0	159619
+2006	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Production Complex	78077	13902	5567	0	0	0	97545
+2006	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Karr Gas Plant/Gathering System	69639	9551	1889	0	0	0	81079
+2006	Conventional Oil and Gas Extraction	SemCams	KA 1-12 GP	198247	13572	2768	0	0	0	214587
+2006	Conventional Oil and Gas Extraction	SemCams	K3 1-15 GP	373716	7942	1609	0	0	0	383268
+2006	Conventional Oil and Gas Extraction	Duke Energy Field Services Canada	Nevis Gas Plant	104583	8230	259	0	0	0	113072
+2006	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	131342	12593	915	0	0	0	144850
+2006	Conventional Oil and Gas Extraction	Husky Energy	Ram River	864765	7295	2089	0	0	0	874149
+2006	Conventional Oil and Gas Extraction	Keyera Energy	Rimbey Gas Plant	255670	9165	3406	0	0	0	268241
+2006	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Burnt Timber Gas Plant	185245	54000	894	0	0	0	240139
+2006	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Caroline Complex	558082	84825	3874	0	0	0	646781
+2006	Conventional Oil and Gas Extraction	Shell Canada Limited	Shell Jumping Pound Gas Plant	251177	92375	2086	0	0	0	345638
+2006	Conventional Oil and Gas Extraction	Keyera Energy	Strachan GP	238088	6291	2214	0	0	0	246593
+2006	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	122994	14056	1353	0	0	0	138402
+2006	Conventional Oil and Gas Extraction	Shell Canada Limited	Waterton Complex	509518	101925	5662	0	0	0	617105
+2006	Conventional Oil and Gas Extraction	SemCams	Windfall 8-17 GP	161303	14411	3335	0	0	0	179049
+2006	Conventional Oil and Gas Extraction	Petro-Canada Oil & Gas	Wildcat Hills Gas Plant	134498	4659	1421	0	0	0	140578
+2006	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	86400	34426	1492	0	0	0	122317
+2006	Conventional Oil and Gas Extraction	BP Canada Energy Company	Marten Hills Gas Plant	62432	26863	6472	0	0	0	95767
+2006	Conventional Oil and Gas Extraction	Pengrowth Corporation	Olds Gas Plant	137560	3244	1970	0	0	0	142774
+2006	Electric Power Generation	Alberta Power (2000) Ltd.	Battle River Generating Station	5258290	1284	22077	0	0	0	5281651
+2006	Electric Power Generation	Calgary Energy Centre	Calgary Energy Center	362717	661	2779	0	0	0	366156
+2006	Electric Power Generation	TransCanada Energy Ltd.	"Carseland Power Plant, Alberta"	328513	1215	3957	0	0	0	333685
+2006	Electric Power Generation	Encana Corporation	Cavalier Power Plant	184899	408	1362	0	0	0	186668
+2006	Electric Power Generation	City of Medicine Hat	"CITY OF MEDICINE HAT, ELECTRIC UTILITY - GENERATION"	270002	525	2175	0	0	0	272702
+2006	Electric Power Generation	TransAlta Cogeneration LP	Fort Saskatchewan Generating Plant	240085	464	1926	0	0	0	242474
+2006	Electric Power Generation	EPCOR Power Generation Services Inc.	Genesee Thermal Generating Station	9660927	1953	77619	0	0	0	9740499
+2006	Electric Power Generation	Milner Power Limited Partnership by its GP Milner Power Inc.	H.R. Milner Generating Station	943207	331	5001	0	0	0	948538
+2006	Electric Power Generation	TransAlta Utilities Corporation	Keephills Generating Plant	6265128	1734	41244	0	0	0	6308106
+2006	Electric Power Generation	ATCO Power Alberta Ltd.	Rainbow Lake Cogeneration Power Plant (Units 4-5)	259532	507	2109	0	0	0	262148
+2006	Electric Power Generation	Alberta Power (2000) Ltd.	Rainbow Lake Generating Station (Units 1-3)	32601	64	265	0	0	0	32930
+2006	Electric Power Generation	TransCanada Energy Ltd.	"Redwater Cogeneration Facility, Alberta"	178444	9945	1985	0	0	0	190374
+2006	Electric Power Generation	Alberta Power (2000) Ltd.	Sheerness Generating Station	5863882	1529	26232	0	0	0	5891643
+2006	Electric Power Generation	TransAlta Utilities Corporation	Sundance Generating Plant	15904607	4527	107347	0	0	0	16016481
+2006	Electric Power Generation	TransAlta Utilties Corporation	Wabamun Generating Plant	2290661	686	16348	0	0	0	2307695
+2006	Electric Power Generation	ATCO Power Alberta Ltd.	Poplar Hill Generating Station	17796	35	145	0	0	0	17975
+2006	Electric Power Generation	Alberta Power (2000) Ltd.	Sturgeon Generating Station (Units 1& 2)	1425	3	12	0	0	0	1439
+2006	Electric Power Generation	ATCO Power Alberta Ltd.	Valleyview Generating Station	4506	9	37	0	0	0	4552
+2006	Electric Power Generation	Nexen Inc.	Balzac Power Station	105155	985	772	0	0	0	106912
+2006	Fertilizer Manufacturing	Agrium Inc.	Agrium Redwater Fertilizer Operation	1096205	10275	12817	0	0	0	1119296
+2006	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1653542	415	4735	0	0	0	1658692
+2006	Fertilizer Manufacturing	Agrium Inc	Carseland Nitrogen Operations	542197	9180	1914	0	0	0	553291
+2006	Fertilizer Manufacturing	Orica Canada Inc	Carseland Works	480	0	701194	0	0	0	701674
+2006	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operation	505053	1298	1517	0	0	0	507867
+2006	Natural Gas Distribution	ATCO Gas and Pipelines Ltd	ATCO Gas - Distribution Systems and Carbon Plant	25700	266039	1435	0	0	0	293173
+2006	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw	173461	26	218	0	0	0	173704
+2006	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc	Exshaw Cement Plant	1223588	3	24	0	0	0	1223615
+2006	Non-Metallic Mineral Product Manufacturing	Lehigh Inland Cement Limited	Lehigh Inland Cement	931800	0	0	0	0	0	931800
+2006	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Christina Lake SAGD Bitumen Battery	112940	447	173	0	0	0	113560
+2006	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4594334	13588	13380	0	0	0	4621301
+2006	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Foster Creek Cogeneration Facility	503304	780	5480	0	0	0	509564
+2006	Oil Sands In Situ Extraction	FCCL Oil Sands Partnership	Foster Creek SAGD Bitumen Battery	416487	578	694	0	0	0	417759
+2006	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	237708	1377	573	0	0	0	239659
+2006	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	"Mackay River Power Plant, Alberta"	719247	1425	9046	0	0	0	729718
+2006	Oil Sands In Situ Extraction	Petro-Canada	"MacKay River, In-Situ Oil Sands Plant"	126851	545	683	0	0	0	128079
+2006	Oil Sands In Situ Extraction	Shell Canada Limited	Peace River Complex	327985	45825	5364	0	0	0	379174
+2006	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake/Primrose Thermal Operation	2357228	120408	15618	0	0	0	2493254
+2006	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	11048159	603609	129490	0	0	0	11781258
+2006	Oil Sands Mining and Upgrading	ATCO Power Canada Ltd.	Muskeg River Cogeneration Power Plant	1088184	1608	6252	0	0	0	1096043
+2006	Oil Sands Mining and Upgrading	Albian Sands Energy Inc.	Muskeg River Mine	254039	20836	1893	0	0	0	276768
+2006	Oil Sands Mining and Upgrading	Shell Canada Limited	Scotford Upgrader and Upgrader Cogeneration	1764366	450	10132	0	0	0	1774948
+2006	Oil Sands Mining and Upgrading	Suncor Energy Inc.  Oil Sands	Suncor Energy Inc.  Oil Sands	8641227	473651	89348	0	0	0	9204226
+2006	Petroleum and Coal Products Manufacturing	Petro-Canada	Edmonton Refinery	1818009	79639	112799	0	0	0	2010447
+2006	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	1102962	325	2682	0	0	0	1105969
+2006	Petroleum and Coal Products Manufacturing	Imperial Oil Limited	Strathcona Refinery	1364471	2189	8562	0	0	0	1375222
+2006	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline System, Alberta"	268426	8096	3513	0	0	0	280036
+2006	Pipeline Transportation	Alliance Pipeline Ltd.	Alberta Pipeline System	536374	66558	3716	0	0	0	606648
+2006	Pipeline Transportation	ATCO Gas and Pipelines Ltd.	ATCO Pipelines	100548	169555	4770	0	0	0	274873
+2006	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline System, Alberta"	1998094	358727	31213	0	0	0	2388034
+2006	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	272084	102	1097	0	0	0	273283
+2006	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	12980	88300	0	0	0	0	101280
+2006	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc. acting as a	Alberta-Pacific Forest Industries Inc. Pulp Mill	78653	2275	18657	0	0	0	99585
+2006	Wood Product Manufacturing	Weyerhaeuser Company Limited	Grande Prairie Operations	72057	29258	9158	0	0	0	110473
+2006	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	127282	12714	11103	0	0	0	151099
+2006	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pu	Peace River Pulp Division	66970	13583	9768	0	0	0	90321
+2005	Chemical Manufacturing	Alberta Envirofuels Inc.	Alberta Envirofuels Inc.	318721	1275	1907	0	0	0	321903
+2005	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	131681	1	2223	0	0	0	133905
+2005	Chemical Manufacturing	Celanese Canada Inc.	Edmonton Facility	610202	621	2416	0	0	0	613238
+2005	Chemical Manufacturing	MEGlobal Canada Inc.	FS1 EOEG	112992	1023	0	0	0	0	114016
+2005	Chemical Manufacturing	Innovene Canada Partnership	Joffre LAO Plant	114450	91	567	0	0	0	115108
+2005	Chemical Manufacturing	Joffre Petrochemical Plantsite	NOVA Chemicals Corporation (Joffre)	3032216	3745	13354	0	0	0	3049315
+2005	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Manufacturing Facility	384213	2140	253	0	0	0	386606
+2005	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	290110	54	1159	721	0	0	292044
+2005	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	330117	573	2444	0	0	0	333133
+2005	Chemical Manufacturing	Dow Chemical Canada Inc.	Western Canada Operations	1595657	1699	2408	8008	0	0	1607772
+2005	Coal Mining	TransAlta Corporation	Highvale Coal Mine	64369	144782	609	0	0	0	209760
+2005	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Processing Plant	230829	14136	1669	0	0	0	246634
+2005	Conventional Oil and Gas Extraction	Imperial Oil Resources	Bonnie Glen Gas Plant	323520	37158	4470	0	0	0	365148
+2005	Conventional Oil and Gas Extraction	Petro-Canada	Brazeau Gas Plant	140173	16999	2138	0	0	0	159311
+2005	Conventional Oil and Gas Extraction	Keyera Energy	Brazeau GP	83472	7342	3470	0	0	0	94284
+2005	Conventional Oil and Gas Extraction	Encana Corporation	Caribou North Compressor Station	84815	26298	10350	0	0	0	121463
+2005	Conventional Oil and Gas Extraction	Bonavista Petroleum Ltd.	Carstairs - Crossfield Gas Plant	43237	1344	307	0	0	0	44887
+2005	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	356515	7376	3591	0	0	0	367482
+2005	Conventional Oil and Gas Extraction	PrimeWest Energy Inc.	East Crossfield Gas Plant 9-14-28-1W5	184868	4490	1772	0	0	0	191130
+2005	Conventional Oil and Gas Extraction	Talisman Energy Inc.	Edson Gas Plant	260389	14140	4291	0	0	0	278820
+2005	Conventional Oil and Gas Extraction	ConocoPhillips Canada	Elmworth Gas Plant	163274	12382	1457	0	0	0	177113
+2005	Conventional Oil and Gas Extraction	Duke Energy Empress LP	Empress Straddle Plant System	171156	3823	2652	0	0	0	177630
+2005	Conventional Oil and Gas Extraction	BP Canada Energy Company	Fort Saskatchewan Storage & Fractionation	98323	467	365	0	0	0	99155
+2005	Conventional Oil and Gas Extraction	Petro-Canada	Hanlan Robb Gas Plant	477469	20389	903	0	0	0	498761
+2005	Conventional Oil and Gas Extraction	Taylor Processing Inc.	Harmattan Gas Processing Plant	237737	17731	2304	0	0	0	257771
+2005	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Gas Conservation Plant (JCGCP)	120755	29749	5687	0	0	0	156190
+2005	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Production Complex	84432	14221	4925	0	0	0	103578
+2005	Conventional Oil and Gas Extraction	Central Alberta Midstream	KA 1-12 GP	197180	16477	1969	0	0	0	215626
+2005	Conventional Oil and Gas Extraction	Central Alberta Midstream	K3 1-15 GP	436626	7743	1395	0	0	0	445764
+2005	Conventional Oil and Gas Extraction	Duke Energy Field Services Canada	Nevis Gas Plant	120828	7320	226	0	0	0	128374
+2005	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Progress Gas Plant	55868	5587	238	0	0	0	61694
+2005	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	119190	15863	805	0	0	0	135857
+2005	Conventional Oil and Gas Extraction	Husky Energy	Ram River	871590	8625	1794	0	0	0	882009
+2005	Conventional Oil and Gas Extraction	Keyera Energy	Rimbey Gas Plant	235981	8662	3122	0	0	0	247765
+2005	Conventional Oil and Gas Extraction	not applicable	Shell Burnt Timber Gas Plant	201089	82800	894	0	0	0	284783
+2005	Conventional Oil and Gas Extraction	not applicable	Shell Caroline Complex	640344	97350	4172	0	0	0	741866
+2005	Conventional Oil and Gas Extraction	not applicable	Shell Jumping Pound Gas Plant	243754	87825	2086	0	0	0	333665
+2005	Conventional Oil and Gas Extraction	Keyera Energy	Strachan GP	247609	5325	2632	0	0	0	255566
+2005	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	126685	23958	1287	0	0	0	151930
+2005	Conventional Oil and Gas Extraction	not applicable	Waterton Complex	484371	104800	5364	0	0	0	594535
+2005	Conventional Oil and Gas Extraction	Central Alberta Midstream	Windfall 8-17 GP	145524	12853	2813	0	0	0	161190
+2005	Conventional Oil and Gas Extraction	Petro-Canada	Wildcat Hills Gas Plant	140309	4651	2798	0	0	0	147759
+2005	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	90365	38055	1635	0	0	0	130055
+2005	Electric Power Generation	ATCO Power	Battle River Generating Station	5285838	1279	22075	0	0	0	5309192
+2005	Electric Power Generation	Calpine Canada Power Ltd.	Calpine Calgary Energy Centre	131385	253	1080	0	0	0	132719
+2005	Electric Power Generation	TransCanada Energy Ltd.	"Carseland Power Plant, Alberta"	337940	1241	4014	0	0	0	343195
+2005	Electric Power Generation	Encana Corporation	Cavalier Power Plant	118420	294	906	0	0	0	119620
+2005	Electric Power Generation	City of Medicine Hat	"CITY OF MEDICINE HAT, ELECTRIC UTILITY - GENERATIO"	239235	4200	1848	0	0	0	245283
+2005	Electric Power Generation	TransAlta Corporation	Fort Saskatchewan Generating Plant	330683	604	2500	0	0	0	333787
+2005	Electric Power Generation	EPCOR Utilities Inc.	Genesee Thermal Generating Station	8873134	1810	71940	0	0	0	8946885
+2005	Electric Power Generation	Milner Power Inc.	H.R. Milner Generating Station	914098	373	5059	0	0	0	919531
+2005	Electric Power Generation	TransAlta Corporation	Keephills Generating Plant	6041060	1688	40192	0	0	0	6082940
+2005	Electric Power Generation	ATCO Power	Rainbow Lake Cogeneration Power Plant (Units 4-5)	268549	525	2086	0	0	0	271160
+2005	Electric Power Generation	ATCO Power	Rainbow Lake Generating Station (Units 1-3)	15231	25	119	0	0	0	15375
+2005	Electric Power Generation	TransCanada Energy Ltd.	"Redwater Cogeneration Facility, Alberta"	173619	10539	2038	0	0	0	186197
+2005	Electric Power Generation	ATCO Power	Sheerness Generating Station	5927674	1549	26570	0	0	0	5955792
+2005	Electric Power Generation	TransAlta Corporation	Sundance Generating Plant	15790482	4518	107401	0	0	0	15902401
+2005	Electric Power Generation	TransAlta Corporation	Wabamun Generating Plant	2174857	662	15753	0	0	0	2191272
+2005	Electric Power Generation	ATCO Power	Poplar Hill Generating Station	17676	25	0	0	0	0	17701
+2005	Electric Power Generation	ATCO Power	Sturgeon Generating Station (Units 1& 2)	1222	0	0	0	0	0	1222
+2005	Electric Power Generation	ATCO Power	Valleyview Generating Station	4574	0	0	0	0	0	4574
+2005	Fertilizer Manufacturing	Agrium Inc.	Agrium Redwater Fertilizer Operation	1054456	9500	16819	0	0	0	1080775
+2005	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1431582	393	4476	0	0	0	1436451
+2005	Fertilizer Manufacturing	Agrium	Carseland Nitrogen Operations	518970	184	1872	0	0	0	521025
+2005	Fertilizer Manufacturing	Orica Canada Inc	Carseland Works	487	0	726375	0	0	0	726862
+2005	Fertilizer Manufacturing	Agrum Inc.	Fort Saskatchewan Nitrogen Operation	496625	1759	1487	0	0	0	499872
+2005	Natural Gas Distribution	ATCO Gas	Distribution System and Carbon Plant	29220	283662	1935	0	0	0	314817
+2005	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw	194114	31	306	0	0	0	194451
+2005	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc	Exshaw Cement Plant	1093870	3	24	0	0	0	1093897
+2005	Non-Metallic Mineral Product Manufacturing	Lehigh Inland Cement Limited	Lehigh Inland Cement	939090	0	0	0	0	0	939090
+2005	Oil Sands In Situ Extraction	Encana Corporation	Christina Lake SAGD Bitumen Battery	110052	366	167	0	0	0	110585
+2005	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4100101	11960	17224	0	0	0	4129285
+2005	Oil Sands In Situ Extraction	Encana Corporation	Foster Creek Cogeneration Facility	480244	1159	5331	0	0	0	486734
+2005	Oil Sands In Situ Extraction	Encana Corporation	Foster Creek SAGD Bitumen Battery	261594	359	444	0	0	0	262397
+2005	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	210955	388	18074	0	0	0	229416
+2005	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	"Mackay River Power Plant, Alberta"	703082	1437	8821	0	0	0	713340
+2005	Oil Sands In Situ Extraction	Petro-Canada	"MacKay River, In-Situ Oil Sands Plant"	67770	759	355	0	0	0	68883
+2005	Oil Sands In Situ Extraction	not applicable	Peace River Complex	365196	50800	5960	0	0	0	421956
+2005	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake/Primrose Thermal Operation	1757767	63000	12553	0	0	0	1833320
+2005	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	8753363	500509	105092	0	0	0	9358964
+2005	Oil Sands Mining and Upgrading	ATCO Power	Muskeg River Cogeneration Power Plant	1277161	1600	6556	0	0	0	1285317
+2005	Oil Sands Mining and Upgrading	Albian Sands Energy Inc.	Muskeg River Mine	192633	47365	13947	0	0	0	253945
+2005	Oil Sands Mining and Upgrading	not applicable	Scotford Upgrader and Upgrader Cogeneration	1915546	5250	11622	0	0	0	1932418
+2005	Oil Sands Mining and Upgrading	N/A	Suncor Energy Inc.  Oil Sands	7211688	476024	79700	0	0	0	7767412
+2005	Petroleum and Coal Products Manufacturing	Petro-Canada	Edmonton Refinery	1519997	6827	7471	9	0	0	1534304
+2005	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	915363	200	2086	0	0	0	917649
+2005	Petroleum and Coal Products Manufacturing	Imperial Oil Limited	Strathcona Refinery	1521770	2851	9262	19	0	0	1533902
+2005	Petroleum and Coal Products Manufacturing	Alcan Primary Metal-British Columbia	Alcan Inc - Strathcona works	101218	1	5	0	0	0	101223
+2005	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Foothills Pipeline System, Alberta"	325019	13142	4315	0	0	0	342476
+2005	Pipeline Transportation	Alliance Pipeline Ltd.	Alberta Pipeline System	533218	43188	3731	0	0	0	580137
+2005	Pipeline Transportation	ATCO Pipelines	ATCO Pipelines	10707	174594	5313	0	0	0	190613
+2005	Pipeline Transportation	Nova Gas Transmission Ltd.	"TransCanada Pipeline System, Alberta"	1807330	531716	27574	0	0	0	2366620
+2005	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	277767	100	1079	0	0	0	278946
+2005	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	12677	87475	0	0	0	0	100152
+2005	Waste Treatment and Disposal	Waste Management of Canada Corporation	West Edmonton Landfill	0	331450	0	0	0	0	331450
+2005	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc.	Alberta-Pacific Forest Industries Inc. Pulp Mill	78788	2208	18019	0	0	0	99015
+2005	Wood Product Manufacturing	Weyerhaeuser Company	Grande Prairie Operations	91532	35975	10132	0	0	0	137639
+2005	Wood Product Manufacturing	West Fraser Mills Ltd.	Hinton Pulp	136408	1539	10447	0	0	0	148393
+2005	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pu	Peace River Pulp Division	62300	11740	10625	0	0	0	84665
+2004	Chemical Manufacturing	Alberta Envirofuels Inc.	Alberta Envirofuels Inc.	345246	1275	2026	0	0	0	348547
+2004	Chemical Manufacturing	Cancarb Ltd.	Cancarb Ltd.	127003	0	2214	0	0	0	129217
+2004	Chemical Manufacturing	Celanese Canada Inc.	Edmonton Facility	683673	618	2371	0	0	0	686662
+2004	Chemical Manufacturing	MEGlobal Canada Inc.	FS1 EOEG	101187	3629	0	0	0	0	104816
+2004	Chemical Manufacturing	BP Canada Chemical Compny	Joffre LAO Plant	108901	91	566	0	0	0	109558
+2004	Chemical Manufacturing	Joffre Petrochemical Plantsite	NOVA Chemicals Corporation (Joffre)	3174618	4552	16198	0	0	0	3195369
+2004	Chemical Manufacturing	MEGlobal Canada Inc.	Prentiss Manufacturing Facility	372701	1667	226	0	0	0	374594
+2004	Chemical Manufacturing	Shell Chemicals Canada Ltd	Scotford Chemical Plant	277853	154	1268	1115	0	0	280390
+2004	Chemical Manufacturing	Air Liquide Canada Inc.	Scotford Complex	360866	623	2787	0	0	0	364276
+2004	Chemical Manufacturing	Dow Chemical Canada Inc.	Western Canada Operations	1426222	1641	2179	4576	0	0	1434618
+2004	Coal Mining	TransAlta Corporation	Highvale Coal Mine	55287	153858	529	0	0	0	209674
+2004	Conventional Oil and Gas Extraction	Nexen Inc.	Balzac Gas Processing Plant	252280	15153	1788	0	0	0	269221
+2004	Conventional Oil and Gas Extraction	Imperial Oil Resources	Bonnie Glen Gas Plant	323500	37500	5066	0	0	0	366066
+2004	Conventional Oil and Gas Extraction	Petro-Canada	Brazeau Gas Plant	133039	16163	2004	0	0	0	151206
+2004	Conventional Oil and Gas Extraction	Keyera Energy	Brazeau GP	88517	11150	3606	0	0	0	103273
+2004	Conventional Oil and Gas Extraction	Encana Corporation	Caribou North Compressor Station	96587	28277	11786	0	0	0	136651
+2004	Conventional Oil and Gas Extraction	Bonavista Petroleum Ltd.	Carstairs - Crossfield Gas Plant	108548	1472	444	0	0	0	110464
+2004	Conventional Oil and Gas Extraction	Inter Pipeline Extraction Ltd.	Cochrane Extraction Plant	387233	7467	4136	0	0	0	398837
+2004	Conventional Oil and Gas Extraction	PrimeWest Energy Inc.	East Crossfield Gas Plant 9-14-28-1W5	180739	4290	1930	0	0	0	186959
+2004	Conventional Oil and Gas Extraction	Talisman Energy Inc.	Edson Gas Plant	265845	9663	4106	0	0	0	279615
+2004	Conventional Oil and Gas Extraction	Burlington Resources Canada Ltd.	Elmworth Sweet GP	142308	11509	3478	0	0	0	157295
+2004	Conventional Oil and Gas Extraction	BP Canada Energy Company	Empress Gas Plant	66856	20528	370	0	0	0	87753
+2004	Conventional Oil and Gas Extraction	ConocoPhillips Canada	Empress Straddle Gas Plant	362045	5247	3737	0	0	0	371029
+2004	Conventional Oil and Gas Extraction	BP Canada Energy Company	Fort Saskatchewan Storage & Fractionation	106844	151	1213	0	0	0	108208
+2004	Conventional Oil and Gas Extraction	Petro-Canada	Hanlan Robb Gas Plant	456871	20175	894	0	0	0	477940
+2004	Conventional Oil and Gas Extraction	SOLEX Gas Processing Corp.	Harmattan Gas Processing Plant	262408	24495	2995	0	0	0	289898
+2004	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Hays Gas Plant	93188	5553	2559	0	0	0	101300
+2004	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Gas Conservation Plant (JCGCP)	125543	26911	5136	0	0	0	157590
+2004	Conventional Oil and Gas Extraction	Pengrowth Corporation	Judy Creek Production Complex	77780	12605	3904	0	0	0	94288
+2004	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Karr Gas Plant/Gathering System	74833	10509	2220	0	0	0	87562
+2004	Conventional Oil and Gas Extraction	Central Alberta Midstream	Kaybob Amalgamated Facility	221493	15908	6914	0	0	0	244315
+2004	Conventional Oil and Gas Extraction	Central Alberta Midstream	Kaybob South #3 Gas Plant	409554	9392	1973	0	0	0	420918
+2004	Conventional Oil and Gas Extraction	Duke Energy Field Services Canada	Nevis Gas Plant	127016	14459	6656	0	0	0	148130
+2004	Conventional Oil and Gas Extraction	Canadian Natural Resources Limited	Progress Gas Plant	45956	6098	536	0	0	0	52589
+2004	Conventional Oil and Gas Extraction	Imperial Oil Resources	Quirk Creek Gas Plant	115000	12500	1192	0	0	0	128692
+2004	Conventional Oil and Gas Extraction	Husky Oil Operations Limited	Ram River	863117	5778	1729	0	0	0	870623
+2004	Conventional Oil and Gas Extraction	Keyera Energy	Rimbey Gas Plant	240363	7100	3308	0	0	0	250771
+2004	Conventional Oil and Gas Extraction	not applicable	Shell Burnt Timber Gas Plant	202718	70925	894	0	0	0	274537
+2004	Conventional Oil and Gas Extraction	not applicable	Shell Caroline Complex	689465	109175	4470	0	0	0	803110
+2004	Conventional Oil and Gas Extraction	not applicable	Shell Jumping Pound Gas Plant	259192	91950	2384	0	0	0	353526
+2004	Conventional Oil and Gas Extraction	Keyera Energy	Strachan GP	268477	9175	3308	0	0	0	280960
+2004	Conventional Oil and Gas Extraction	Devon Canada Corporation	Wapiti Gas Plant	109949	23975	1332	0	0	0	135256
+2004	Conventional Oil and Gas Extraction	not applicable	Waterton Complex	505377	109175	5662	0	0	0	620214
+2004	Conventional Oil and Gas Extraction	Central Alberta Midstreeam	West Whitecourt	128386	13044	2938	0	0	0	144368
+2004	Conventional Oil and Gas Extraction	Petro-Canada	Wildcat Hills Gas Plant	153482	4660	3151	0	0	0	161293
+2004	Conventional Oil and Gas Extraction	Apache Canada Ltd.	"Zama Gas Plant: 1, 2, 3"	101942	34814	1434	0	0	0	138190
+2004	Electric Power Generation	ATCO Power	Battle River Generating Station	5022944	1204	20789	0	0	0	5044936
+2004	Electric Power Generation	Calpine Canada Power Ltd.	Calpine Calgary Energy Centre	347119	678	2809	0	0	0	350606
+2004	Electric Power Generation	TransCanada Energy Ltd.	"Carseland Power Plant, Alberta"	322946	1233	3963	0	0	0	328143
+2004	Electric Power Generation	Encana Corporation	Cavalier Power Plant	136604	328	1046	0	0	0	137978
+2004	Electric Power Generation	City of Medicine Hat	"CITY OF MEDICINE HAT, ELECTRIC UTILITY - GENERATION"	260874	4263	1907	0	0	0	267044
+2004	Electric Power Generation	EPCOR	Clover Bar Thermal Generating Station	104713	678	808	0	0	0	106199
+2004	Electric Power Generation	TransAlta Corpoation	Fort Saskatchewan Generating Plant	388808	716	2963	0	0	0	392487
+2004	Electric Power Generation	EPCOR	Genesee Thermal Generating Station	6733497	1398	55535	0	0	0	6790430
+2004	Electric Power Generation	Milner Power Inc.	H.R. Milner Generating Station	959369	423	5230	0	0	0	965022
+2004	Electric Power Generation	TransAlta Corporation	Keephills Generating Plant	5951726	1653	39361	0	0	0	5992740
+2004	Electric Power Generation	ATCO Power	Rainbow Lake Cogeneration Power Plant (Units 4-5)	198200	387	1611	0	0	0	200198
+2004	Electric Power Generation	ATCO Power	Rainbow Lake Generating Station (Units 1-3)	130956	256	1064	0	0	0	132276
+2004	Electric Power Generation	TransCanada Energy Ltd.	"Redwater Cogeneration Facility, Alberta"	190564	10583	2265	0	0	0	203412
+2004	Electric Power Generation	ATCO Power	Sheerness Generating Station	6191011	1568	26916	37	0	0	6219531
+2004	Electric Power Generation	TransAlta Corporation	Sundance Generating Plant	16273133	4694	111490	0	0	0	16389317
+2004	Electric Power Generation	TransAlta Corporation	Wabamun Generating Plant	3219788	972	23064	0	0	0	3243824
+2004	Fertilizer Manufacturing	Agrium Inc.	Agrium Redwater Fertilizer Operation	1060739	150746	19537	0	0	0	1231022
+2004	Fertilizer Manufacturing	Canadian Fertilizers Limited	Canadian Fertilizers Limited	1614438	423	4828	0	0	0	1619688
+2004	Fertilizer Manufacturing	Agrium	Carseland Nitrogen Operations	518418	193	2085	0	0	0	520696
+2004	Fertilizer Manufacturing	Orica Canada Inc	Carseland Works	290	0	686592	0	0	0	686882
+2004	Fertilizer Manufacturing	Agrium Inc.	Fort Saskatchewan Nitrogen Operation	607308	494	2065	0	0	0	609866
+2004	Natural Gas Distribution	ATCO Gas	Distribution System and Carbon Plant	31704	279678	2148	0	0	0	313530
+2004	Non-Metallic Mineral Product Manufacturing	Graymont Western Canada Inc.	Exshaw	202451	29	262	0	0	0	202743
+2004	Non-Metallic Mineral Product Manufacturing	Lafarge Canada Inc	Exshaw Cement Plant	1136590	3	22	0	0	0	1136615
+2004	Non-Metallic Mineral Product Manufacturing	Lehigh Inland Cement Limited	Lehigh Inland Cement	794202	0	0	0	0	0	794202
+2004	Oil Sands In Situ Extraction	Encana Corporation	Christina Lake SAGD Bitumen Battery	106850	598	164	0	0	0	107612
+2004	Oil Sands In Situ Extraction	Imperial Oil Resources	Cold Lake	4148600	10000	17284	0	0	0	4175884
+2004	Oil Sands In Situ Extraction	Encana Corporation	Foster Creek Cogeneration Facility	459398	1137	5197	0	0	0	465732
+2004	Oil Sands In Situ Extraction	Encana Corporation	Foster Creek SAGD Bitumen Battery	314923	532	548	0	0	0	316003
+2004	Oil Sands In Situ Extraction	Japan Canada Oil Sands Limited	Hangingstone SAGD Demonstration Facility	163820	607	843	0	0	0	165271
+2004	Oil Sands In Situ Extraction	TransCanada Energy Ltd.	"Mackay River Power Plant, Alberta"	413105	788	5403	0	0	0	419295
+2004	Oil Sands In Situ Extraction	Petro-Canada	"MacKay River, In-Situ Oil Sands Plant"	195853	1976	1025	0	0	0	198854
+2004	Oil Sands In Situ Extraction	not applicable	Peace River Complex	324516	44625	5066	0	0	0	374207
+2004	Oil Sands In Situ Extraction	Canadian Natural Resources Limited	Wolf Lake/Primrose Thermal Operation	1401719	43865	10357	0	0	0	1455941
+2004	Oil Sands Mining and Upgrading	Syncrude Canada Ltd.	Mildred Lake and Aurora North Plant Sites	9024607	505973	109454	0	0	0	9640033
+2004	Oil Sands Mining and Upgrading	ATCO Power	Muskeg River Cogeneration Power Plant	1145213	1521	6128	0	0	0	1152862
+2004	Oil Sands Mining and Upgrading	Albian Sands Energy Inc.	Muskeg River Mine	235384	1250	18181	0	0	0	254815
+2004	Oil Sands Mining and Upgrading	not applicable	Scotford Upgrader and Upgrader Cogeneration	2003964	9700	4172	0	0	0	2017836
+2004	Oil Sands Mining and Upgrading	N/A	Suncor Energy Inc.  Oil Sands	8119686	467950	83142	0	0	0	8670778
+2004	Petroleum and Coal Products Manufacturing	Petro-Canada	Edmonton Refinery	1388232	6455	5319	52	0	0	1400058
+2004	Petroleum and Coal Products Manufacturing	Shell Canada Products	Shell Scotford Refinery	1080247	225	2086	0	0	0	1082558
+2004	Petroleum and Coal Products Manufacturing	Imperial Oil Limited	Strathcona Refinery	1445022	2618	8338	0	0	0	1455978
+2004	Pipeline Transportation	Foothills Pipe Lines Ltd.	"Acme Compressor Station # 363, Alberta"	275767	1511	3645	0	0	0	280922
+2004	Pipeline Transportation	Alliance Pipeline Ltd.	Alberta Pipeline System	514021	44138	3676	0	0	0	561834
+2004	Pipeline Transportation	ATCO Pipelines	ATCO Pipelines	108856	132682	5155	0	0	0	246692
+2004	Pipeline Transportation	Nova Gas Transmission Ltd.	"Cardinal Lake Compressor Station, Alberta"	1733373	499800	25351	0	0	0	2258524
+2004	Primary Metal Manufacturing	Sherritt International Corporation	Fort Saskatchewan	274388	99	1065	0	0	0	275553
+2004	Waste Treatment and Disposal	City of Calgary	East Calgary Landfill	12397	85675	0	0	0	0	98072
+2004	Wood Product Manufacturing	Alberta-Pacific Forest Industries Inc.	Alberta-Pacific Forest Industries Inc. Pulp Mill	81606	2213	17991	0	0	0	101810
+2004	Wood Product Manufacturing	Weyerhaeuser Company	Grande Prairie Operations	89673	33970	8854	0	0	0	132496
+2004	Wood Product Manufacturing	West Fraser Mills Limited	Hinton Pulp	149228	1299	9290	0	0	0	159817
+2004	Wood Product Manufacturing	Daishowa-Marubeni International Ltd-Peace River Pu	Peace River Pulp Division	67293	8107	10186	0	0	0	85585

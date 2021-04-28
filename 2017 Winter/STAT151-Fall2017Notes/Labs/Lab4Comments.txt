@@ -1,0 +1,20 @@
+General: Note that all output is from a previous version of StatCrunch.
+General: Unlike other labs, there are no total marks for each question in the Marking Schema area.
+General: Inconsistent rounding of numbers from output and no rounding is mentioned.
+
+Q1c: I'm not sure if second sentence is opinion or actually related to the definition of "double-blind".
+Q1d: Please change "held to close" to "held too close".
+Q2c: The assumption that the samples are paired is also relevant as an assumption.
+Q2c: Please inform graders that discussing concavity is not required for full marks. For this course, I believe the goal is to identify normality or not, but not necessarily in terms of concavity.
+Q2c: Please change "no sufficient" to "not sufficient".
+Q2c: The phrase "clearly less reliable" suggests opinion instead of fact; please remove "clearly" as the solutions do not describe why it is "clearly less reliable".
+Q3: Due to changes in the material (both sample sizes are less than 15), then it is not possible to use the pooled t-test. Thus, the test not assuming equal variances is the only appropriate one. Solutions likely need to be changed to reflect this.
+Q3a: Paragraph relates to output on next page instead of directly below.
+Q3a: The phrase "insufficient evidence" appears to be more appropriate as it is not as extreme as "no evidence". It is also used in Q3c, so consistency between questions is preferred.
+Q3b: This part likely requires some discussion of the three equal variance conditions since of the three (approximately equal sample sizes, sample sizes >= 15, and s_max/s_min < 2), only the last one holds.
+Q3c: Word is missing in assignment. Please change to "...mean difference in the change in the..."
+Q3c: As noted above, the material has changed so this "Remark" can be removed.
+Q4: These tests are not consistent with those in Q2 or Q3 as there are no marks for the distribution of the test statistic. Please make sure graders are aware of this.
+Q5: Please use the phrase "insufficient evidence" in place of "no evidence".
+Q5: Consider that the test statistic depends somewhat on the df value, so it may be worth noting that the magnitudes can be compared because the df value is the same for all 3 tests.
+

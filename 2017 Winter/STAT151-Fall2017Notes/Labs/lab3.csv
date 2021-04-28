@@ -1,0 +1,88 @@
+Name,Gender,Family,Position,Age,Child,Survival,Order,Alone,Group Size
+Antonio,Male,Donner,Teamster,23,No,Died,13,Yes,1
+"Breen, Edward",Male,Breen,Son,13,Yes,Survived,,No,9
+"Breen, Isabella",Female,Breen,Daughter,1,Yes,Survived,,No,9
+"Breen, James Frederick",Male,Breen,Son,5,Yes,Survived,,No,9
+"Breen, John",Male,Breen,Son,14,Yes,Survived,,No,9
+"Breen, Margaret Bulger",Female,Breen,Mother,40,No,Survived,,No,9
+"Breen, Patrick",Male,Breen,Father,51,No,Survived,,No,9
+"Breen, Patrick Jr.",Male,Breen,Son,9,Yes,Survived,,No,9
+"Breen, Peter",Male,Breen,Son,3,Yes,Survived,,No,9
+"Breen, Simon Preston",Male,Breen,Son,8,Yes,Survived,,No,9
+"Burger, Charles",Male,Keseberg,Teamster,30,No,Died,17,Yes,1
+"Denton, John",Male,Donner,Teamster,30,No,Died,30,Yes,1
+"Dolan, Patrick",Male,Breen,Teamster,35,No,Died,15,Yes,1
+"Donner, Elitha Cumi",Female,Donner,Daughter,13,Yes,Survived,,No,16
+"Donner, Eliza Poor",Female,Donner,Daughter,3,Yes,Survived,,No,16
+"Donner, Elizabeth Hook",Female,Donner,Mother,45,No,Died,37,No,16
+"Donner, Francis Eustis",Female,Donner,Daughter,6,Yes,Survived,,No,16
+"Donner, George",Male,Donner,Father,61,No,Died,41,No,16
+"Donner, George Jr.",Male,Donner,Son,9,Yes,Survived,,No,16
+"Donner, Georgia Ann",Female,Donner,Daughter,4,Yes,Survived,,No,16
+"Donner, Isaac",Male,Donner,Son,5,Yes,Died,32,No,16
+"Donner, Jacob",Male,Donner,Father,56,No,Died,8,No,16
+"Donner, Leanna Charity",Female,Donner,Daughter,11,Yes,Survived,,No,16
+"Donner, Lewis",Male,Donner,Son,3,Yes,Died,38,No,16
+"Donner, Mary",Female,Donner,Daughter,7,Yes,Survived,,No,16
+"Donner, Samuel",Male,Donner,Son,4,Yes,Died,39,No,16
+"Donner, Tamzene Dozier",Female,Donner,Mother,44,No,Died,42,No,16
+"Eddy, Eleanor Priscilla",Female,Eddy,Mother,25,No,Died,25,No,4
+"Eddy, James",Male,Eddy,Son,3,Yes,Died,36,No,4
+"Eddy, Margaret",Male,Eddy,Daughter,1,Yes,Died,24,No,4
+"Eddy, William Henry",Male,Eddy,Father,28,No,Survived,,No,4
+"Elliott, Milford",Male,Reed,Teamster,28,No,Died,27,Yes,1
+"Fosdick, Jay",Male,Graves,Husband,23,No,Died,18,No,12
+"Fosdick, Sarah Graves",Female,Graves,Wife,21,No,Survived,,No,12
+"Foster, Jeremiah George",Male,Graves,Son,1,Yes,Died,35,No,13
+"Foster, Sarah Murphy",Female,Murphy,Mother,19,No,Survived,,No,13
+"Foster, William McFadden",Male,Murphy,Father,30,No,Survived,,No,13
+"Graves, Eleanor",Female,Graves,Daughter,14,Yes,Survived,,No,12
+"Graves, Elizabeth",Female,Graves,Daughter,1,Yes,Died,,No,12
+"Graves, Elizabeth Cooper",Female,Graves,Mother,45,No,Died,33,No,12
+"Graves, Franklin Ward",Male,Graves,Father,57,No,Died,14,No,12
+"Graves, Franklin Ward Jr.",Male,Graves,Son,5,Yes,Died,34,No,12
+"Graves, Jonathan",Male,Graves,Son,7,Yes,Survived,,No,12
+"Graves, Lovina",Female,Graves,Daughter,12,Yes,Survived,,No,12
+"Graves, Mary Ann",Female,Graves,Daughter,19,Yes,Survived,,No,12
+"Graves, Nancy",Female,Graves,Daughter,9,Yes,Survived,,No,12
+"Graves, William Cooper",Male,Graves,Son,17,Yes,Survived,,No,12
+"Halloran, Luke",Male,Donner,Passenger,25,No,Died,2,Yes,1
+Hardcoop,Male,Keseberg,Passenger,60,No,Died,4,Yes,1
+"Herron, Walter",Male,Reed,Teamster,27,No,Survived,,Yes,1
+"Hook, Solomon Elijah",Male,Donner,Son,14,Yes,Survived,,No,16
+"Hook, William",Male,Donner,Son,12,Yes,Died,31,No,16
+"James, Noah",Male,Donner,Teamster,16,Yes,Survived,,Yes,1
+"Keseberg, Ada",Female,Keseberg,Daughter,3,Yes,Died,29,No,4
+"Keseberg, Elizabeth Phillipine",Female,Keseberg,Mother,23,No,Survived,,No,4
+"Keseberg, Johann Lewis",Male,Keseberg,Father,32,No,Survived,,No,4
+"Keseberg, Lewis Jr.",Male,Keseberg,Son,1,Yes,Died,21,No,4
+"McCutchen, Amanda Henderson",Female,McCutchen,Mother,25,No,Survived,,No,3
+"McCutchen, Harriet",Female,McCutchen,Daughter,1,Yes,Died,23,No,3
+"McCutchen, William",Male,McCutchen,Father,30,No,Survived,,No,3
+"Murphy, John Landrum",Male,Murphy,Son,16,Yes,Died,22,No,13
+"Murphy, Lemuel B.",Female,Murphy,Son,12,Yes,Died,16,No,13
+"Murphy, Levinah W. Jackson",Female,Murphy,Widow,36,No,Died,40,No,13
+"Murphy, Meriam Marjory",Female,Murphy,Daughter,14,Yes,Survived,,No,13
+"Murphy, Simon Peter",Male,Murphy,Son,8,Yes,Survived,,No,13
+"Murphy, William Green",Male,Murphy,Son,10,Yes,Survived,,No,13
+"Pike, Catherine",Female,Murphy,Daughter,1,Yes,Died,28,No,13
+"Pike, Harriet Murphy",Female,Murphy,Mother,18,No,Survived,,No,13
+"Pike, Naomi Levina",Female,Murphy,Daughter,2,Yes,Survived,,No,13
+"Pike, William",Male,Murphy,Father,32,No,Died,6,No,13
+"Reed, James Frazier",Male,Reed,Father,45,No,Survived,,No,7
+"Reed, James Frazier, Jr.",Male,Reed,Son,6,Yes,Survived,,No,7
+"Reed, Margret Backenstoe",Female,Reed,Mother,32,No,Survived,,No,7
+"Reed, Mary Jane ""Patty""",Female,Reed,Daughter,8,Yes,Survived,,No,7
+"Reed, Thomas Keyes",Male,Reed,Son,4,Yes,Survived,,No,7
+"Reed, Virginia Backenstoe",Female,Reed,Daughter,13,Yes,Survived,,No,7
+"Reinhardt, Joseph",Male,Wolfinger,Passenger,30,No,Died,11,Yes,1
+"Shoemaker, Samuel",Male,Donner,Teamster,25,No,Died,9,Yes,1
+"Smith, James",Male,Reed,Teamster,25,No,Died,10,Yes,1
+"Snyder, John",Male,Graves,Teamster,25,No,Died,3,Yes,1
+"Spitzer, Augustus",Male,Donner,Teamster,30,No,Died,26,Yes,1
+"Stanton, Charles",Male,Donner,Teamster,35,No,Died,12,Yes,1
+"Trudeau, Jean-Baptiste",Male,Donner,Teamster,16,Yes,Survived,,Yes,1
+"William, Baylis",Male,Reed,Hired,25,No,Died,7,No,2
+"Williams, Eliza",Female,Reed,Hired,31,No,Survived,,No,2
+Wolfinger,Male,Wolfinger,Husband,25,No,Died,5,No,2
+"Wolfinger, Doris",Female,Wolfinger,Wife,20,No,Survived,,No,2
